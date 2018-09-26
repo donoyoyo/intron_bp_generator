@@ -1,0 +1,46 @@
+<pre>
+
+Perl script to generate sequence information regarding splice sites and branch points.
+It was designed for yeast, so uses a strict definition of branchpoint
+
+searching in this order
+
+1.) ACTAA
+
+2.) [AG][TC]T[AG]A[TC][AG]
+aka PYTPAYP
+
+3.) [TC]T[AG]A[TC][ACTG]
+aka YTPAY
+
+
+USAGE:
+
+./intron_branchpoint_gen.pl inputintron.bed annotation.bed genome.2bit outputfile.tsv conservation.bw
+
+inputintron.bed contains bed format from data that has introns
+annotation.bed contains the annotated genes in the genome
+genome.2bit is the genome sequence in 2bit format
+outputfile is a tab seperated value text file sorted by total bed score
+conservationfile (bigwig format , optional)
+
+You will need twoBitToFa in your path
+
+(and hgBigWigSummary if you are using conservation)
+
+useful files
+<a href="ares_sc3_isoforms.bed">ares_sc3_isoforms.bed</a>
+<a href="intron_branchpoint_gen.pl">intron_branchpoint_gen.pl</a>
+<a href="sacCer3.2bit">sacCer3.2bit</a>
+<a href="sacCer3.phastCons7way.bw">sacCer3.phastCons7way.bw</a>
+
+using those files:
+ 
+./intron_branchpoint_gen.pl introndata.bed ares_sc3_isofomrs.bed sacCer3.2bit outputfile.tsv sacCer3.phastCons7way.bw
+
+
+<a href="sacMik2">sacMik2</a>
+<a href="sacBay2">sacBay2</a>
+<a href="ares_sc3_isoforms.bed">ares_sc3_isoforms.bed</a>
+<a href="sc3intronsfeb15.bed">sc3intronsfeb15.bed</a>
+

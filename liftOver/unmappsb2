@@ -1,0 +1,2298 @@
+#Boundary problem: need 2, got 1, diff 1, mapped 0.5
+chrV	131771	132551	UBC8	0	+	131771	132551	0	2	5,652,	0,128,
+#Partially deleted in new
+chrX	365783	368373	NSP1	0	+	365783	368373	0	2	1,2471,	0,119,
+#Boundary problem: need 2, got 1, diff 1, mapped 0.5
+chrXI	154990	158232	APE2	0	+	154990	158232	0	2	281,2578,	0,664,
+#Partially deleted in new
+chrXV	678190	678793	RPS30B	0	-	678190	678793	0	2	189,3,	0,600,
+#Boundary problem: need 2, got 1, diff 1, mapped 0.5
+chrIII	101316	101788	YCL012C	0	-	101316	101788	0	2	317,88,	0,384,
+#Boundary problem: need 2, got 1, diff 1, mapped 0.5
+chrXIV	366032	366412	YSF3	0	+	366032	366412	0	2	3,255,	0,125,
+#Boundary problem: need 2, got 1, diff 1, mapped 0.5
+chrXIV	379557	380831	CPT1	0	-	379557	380831	0	2	1132,50,	0,1224,
+#Boundary problem: need 2, got 1, diff 1, mapped 0.5
+chrXVI	883238	883595	YPR170W-B	0	+	883238	883595	0	2	149,109,	0,248,
+#Boundary problem: need 2, got 1, diff 1, mapped 0.5
+chrXII	795396	796363	RPS25B	0	-	795396	796363	0	2	516,28,	0,939,
+#Boundary problem: need 2, got 0, diff 2, mapped 0.0
+chrXII	898005	898896	RPS29A	0	+	898005	898896	0	2	152,251,	0,640,
+#Deleted in new
+chrM	13817	26701	COX1	0	+	13817	26701	0	8	169,36,38,477,252,135,25,473,	0,2617,5136,6690,8177,9794,11500,12411,
+#Deleted in new
+chrM	13817	23167	AI5_ALPHA	0	+	13817	23167	0	5	169,36,38,477,1173,	0,2617,5136,6690,8177,
+#Deleted in new
+chrM	13817	21935	AI4	0	+	13817	21935	0	4	169,36,38,1428,	0,2617,5136,6690,
+#Deleted in new
+chrM	13817	19996	AI3	0	+	13817	19996	0	3	169,36,1043,	0,2617,5136,
+#Deleted in new
+chrM	13817	18830	AI2	0	+	13817	18830	0	2	169,2396,	0,2617,
+#Deleted in new
+chrM	24155	25255	AI5_BETA	0	+	24155	25255	0	2	715,350,	0,750,
+#Deleted in new
+chrM	36539	43647	COB	0	+	36539	43647	0	6	415,14,77,250,51,351,	0,1183,2601,4301,5968,6757,
+#Deleted in new
+chrM	36539	42251	BI4	0	+	36539	42251	0	4	415,14,77,1411,	0,1183,2601,4301,
+#Deleted in new
+chrM	36539	40265	BI3	0	+	36539	40265	0	3	415,14,1125,	0,1183,2601,
+#Deleted in new
+chrM	36539	38579	BI2	0	+	36539	38579	0	2	415,857,	0,1183,
+#Deleted in new
+chrM	74494	75984	Q0255	0	+	74494	75984	0	3	1128,210,81,	0,1168,1409,
+#Partially deleted in new
+chrIV	1506605	1507362	YDR535C	0	-	1506605	1507362	0	2	453,48,	0,709,
+#Partially deleted in new
+chrXV	911783	912436	YOR318C	0	-	911783	912436	0	2	302,4,	0,649,
+#Boundary problem: need 2, got 1, diff 1, mapped 0.5
+chrXI	92703	93659	MTR2	0	-	92703	93659	0	2	608,144,	0,812,
+#Boundary problem: need 2, got 1, diff 1, mapped 0.5
+chrXI	92703	93659	MTR2	0	-	92703	93659	0	2	608,194,	0,762,
+#Boundary problem: need 2, got 1, diff 1, mapped 0.5
+chrII	691924	694518	PRP5	0	+	691924	694518	0	2	42,2385,	0,209,
+#Partially deleted in new
+chrIX	205634	210132	YIL082W-A	0	+	205634	210132	0	1	4498,	0,
+#Deleted in new
+chrV	568039	568759	YER188W	0	+	568039	568759	0	1	720,	0,
+#Partially deleted in new
+chrVII	433213	433579	YGL034C	0	-	433213	433579	0	1	366,	0,
+#Partially deleted in new
+chrIV	1017000	1017318	YDR278C	0	-	1017000	1017318	0	1	318,	0,
+#Partially deleted in new
+chrVIII	98827	99220	YHL005C	0	-	98827	99220	0	1	393,	0,
+#Partially deleted in new
+chrXIV	351385	351580	YNL146C-A	0	-	351385	351580	0	1	195,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIII	249292	250045	YCR076C	0	-	249292	250045	0	1	753,	0,
+#Partially deleted in new
+chrII	88463	89556	RPS8A	0	-	88463	89556	0	1	1093,	0,
+#Partially deleted in new
+chrIV	871035	871449	YDR209C	0	-	871035	871449	0	1	414,	0,
+#Deleted in new
+chrIII	313889	314981	AAD3	0	+	313889	314981	0	1	1092,	0,
+#Partially deleted in new
+chrXII	16638	17613	MHT1	0	-	16638	17613	0	1	975,	0,
+#Partially deleted in new
+chrVII	11109	11730	VEL1	0	+	11109	11730	0	1	621,	0,
+#Partially deleted in new
+chrII	595360	595555	YBR182C-A	0	-	595360	595555	0	1	195,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVIII	232132	233296	DYS1	0	+	232132	233296	0	1	1164,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	793910	794498	NAT3	0	-	793910	794498	0	1	588,	0,
+#Partially deleted in new
+chrIII	310957	313456	RDS1	0	+	310957	313456	0	1	2499,	0,
+#Partially deleted in new
+chrXII	475763	475976	YLR157W-D	0	+	475763	475976	0	1	213,	0,
+#Partially deleted in new
+chrXII	455882	456023	YLR154W-F	0	+	455882	456023	0	1	141,	0,
+#Deleted in new
+chrVIII	3725	4541	YHL049C	0	-	3725	4541	0	1	816,	0,
+#Partially deleted in new
+chrVIII	543007	543493	YHR214W-A	0	+	543007	543493	0	1	486,	0,
+#Partially deleted in new
+chrIII	74703	75285	FRM2	0	-	74703	75285	0	1	582,	0,
+#Partially deleted in new
+chrIX	389571	393675	MUC1	0	-	389571	393675	0	1	4104,	0,
+#Partially deleted in new
+chrXIII	373056	378325	YMR050C	0	-	373056	378325	0	1	5269,	0,
+#Partially deleted in new
+chrXVI	74308	74719	ICY2	0	-	74308	74719	0	1	411,	0,
+#Partially deleted in new
+chrVIII	12501	12849	YHL045W	0	+	12501	12849	0	1	348,	0,
+#Partially deleted in new
+chrVII	562198	567467	YGR038C-B	0	-	562198	567467	0	1	5269,	0,
+#Partially deleted in new
+chrX	717579	717630	YJR151W-A	0	+	717579	717630	0	1	51,	0,
+#Partially deleted in new
+chrVII	1081583	1082729	COS6	0	-	1081583	1082729	0	1	1146,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrX	436801	438610	AVT1	0	+	436801	438610	0	1	1809,	0,
+#Partially deleted in new
+chrIX	300828	301257	YIL029C	0	-	300828	301257	0	1	429,	0,
+#Deleted in new
+chrXVI	946855	947338	YPR204C-A	0	-	946855	947338	0	1	483,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIX	195598	196216	YIL089W	0	+	195598	196216	0	1	618,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIX	102781	105676	ASG1	0	+	102781	105676	0	1	2895,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrI	61315	62563	ERV46	0	+	61315	62563	0	1	1248,	0,
+#Partially deleted in new
+chrIX	246549	246915	YIL059C	0	-	246549	246915	0	1	366,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1303173	1305072	RAD30	0	+	1303173	1305072	0	1	1899,	0,
+#Partially deleted in new
+chrXV	355651	355858	YOR011W-A	0	+	355651	355858	0	1	207,	0,
+#Partially deleted in new
+chrIII	70149	71367	RNQ1	0	+	70149	71367	0	1	1218,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1186106	1188941	SPC110	0	+	1186106	1188941	0	1	2835,	0,
+#Partially deleted in new
+chrVI	226021	226309	YFR034W-A	0	+	226021	226309	0	1	288,	0,
+#Partially deleted in new
+chrXIV	572998	573853	YNL033W	0	+	572998	573853	0	1	855,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	241688	244172	RAP1	0	+	241688	244172	0	1	2484,	0,
+#Partially deleted in new
+chrXII	485344	485689	YLR159W	0	+	485344	485689	0	1	345,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	780389	781100	NBP2	0	-	780389	781100	0	1	711,	0,
+#Partially deleted in new
+chrXVI	844708	849980	YPR158W-B	0	+	844708	849980	0	1	5272,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	113270	116453	CAF120	0	+	113270	116453	0	1	3183,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	61201	62602	YBL086C	0	-	61201	62602	0	1	1401,	0,
+#Partially deleted in new
+chrXIII	337312	337603	YMR030W-A	0	+	337312	337603	0	1	291,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1020746	1021664	RRP45	0	+	1020746	1021664	0	1	918,	0,
+#Partially deleted in new
+chrXVI	744174	744387	YPR108W-A	0	+	744174	744387	0	1	213,	0,
+#Partially deleted in new
+chrIV	18958	19312	YDL242W	0	+	18958	19312	0	1	354,	0,
+#Partially deleted in new
+chrXIV	356793	357186	YNL143C	0	-	356793	357186	0	1	393,	0,
+#Deleted in new
+chrM	51051	51228	Q0142	0	+	51051	51228	0	1	177,	0,
+#Partially deleted in new
+chrIX	23118	26106	YIL169C	0	-	23118	26106	0	1	2988,	0,
+#Deleted in new
+chrVI	52	535	YFL068W	0	+	52	535	0	1	483,	0,
+#Partially deleted in new
+chrXI	612664	613885	SRP40	0	-	612664	613885	0	1	1221,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1129587	1130823	GPI8	0	+	1129587	1130823	0	1	1236,	0,
+#Partially deleted in new
+chrXII	1067086	1071235	YRF1-4	0	+	1067086	1071235	0	1	4149,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	418824	419289	YGL041W-A	0	+	418824	419289	0	1	465,	0,
+#Partially deleted in new
+chrXV	161672	162014	YOL085C	0	-	161672	162014	0	1	342,	0,
+#Partially deleted in new
+chrXIII	754296	754386	YMR242W-A	0	+	754296	754386	0	1	90,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVIII	132046	132922	SPO13	0	+	132046	132922	0	1	876,	0,
+#Partially deleted in new
+chrXIII	168948	169795	YML053C	0	-	168948	169795	0	1	847,	0,
+#Deleted in new
+chrIV	1530862	1531342	YDR545C-A	0	-	1530862	1531342	0	1	480,	0,
+#Partially deleted in new
+chrV	42651	42960	HHY1	0	+	42651	42960	0	1	309,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	724043	724433	YLR297W	0	+	724043	724433	0	1	390,	0,
+#Partially deleted in new
+chrXI	658715	660464	VBA5	0	-	658715	660464	0	1	1749,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	682174	682492	YDR115W	0	+	682174	682492	0	1	318,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVI	154526	155873	SAD1	0	-	154526	155873	0	1	1347,	0,
+#Partially deleted in new
+chrXI	98394	98607	YKL183C-A	0	-	98394	98607	0	1	213,	0,
+#Partially deleted in new
+chrXVI	584308	584563	YPR012W	0	+	584308	584563	0	1	255,	0,
+#Partially deleted in new
+chrII	603684	604107	NTC20	0	-	603684	604107	0	1	423,	0,
+#Partially deleted in new
+chrXIII	651144	651910	RPL36A	0	+	651144	651910	0	1	766,	0,
+#Deleted in new
+chrVIII	9980	10307	YHL046W-A	0	+	9980	10307	0	1	327,	0,
+#Partially deleted in new
+chrXV	110296	110638	ZEO1	0	+	110296	110638	0	1	342,	0,
+#Partially deleted in new
+chrXIV	602137	602476	YNL017C	0	-	602137	602476	0	1	339,	0,
+#Partially deleted in new
+chrI	22394	22685	YAL063C-A	0	-	22394	22685	0	1	291,	0,
+#Partially deleted in new
+chrVI	95760	96615	YFL021C-A	0	-	95760	96615	0	1	855,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	489507	490896	SES1	0	+	489507	490896	0	1	1389,	0,
+#Partially deleted in new
+chrIII	151607	151862	YCR018C-A	0	-	151607	151862	0	1	255,	0,
+#Partially deleted in new
+chrVI	183130	184222	YFR018C	0	-	183130	184222	0	1	1092,	0,
+#Partially deleted in new
+chrX	294046	294145	YJL077W-B	0	+	294046	294145	0	1	99,	0,
+#Partially deleted in new
+chrXIV	753724	755035	YNR066C	0	-	753724	755035	0	1	1311,	0,
+#Deleted in new
+chrVI	269060	269516	YFR057W	0	+	269060	269516	0	1	456,	0,
+#Partially deleted in new
+chrIX	382627	383425	YIR016W	0	+	382627	383425	0	1	798,	0,
+#Partially deleted in new
+chrXII	941482	946796	YLR410W-B	0	+	941482	946796	0	1	5314,	0,
+#Partially deleted in new
+chrXV	778554	779405	RPL33B	0	-	778554	779405	0	1	851,	0,
+#Partially deleted in new
+chrIV	427363	428347	NOP1	0	+	427363	428347	0	1	984,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrV	150300	150978	IRC22	0	-	150300	150978	0	1	678,	0,
+#Partially deleted in new
+chrII	504242	504644	YBR134W	0	+	504242	504644	0	1	402,	0,
+#Partially deleted in new
+chrX	11474	16124	VTH2	0	+	11474	16124	0	1	4650,	0,
+#Partially deleted in new
+chrXIII	562505	562943	YIM2	0	+	562505	562943	0	1	438,	0,
+#Partially deleted in new
+chrVII	765725	766064	YGR139W	0	+	765725	766064	0	1	339,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	501259	502162	DPH5	0	-	501259	502162	0	1	903,	0,
+#Partially deleted in new
+chrXV	1058422	1058590	YOR381W-A	0	+	1058422	1058590	0	1	168,	0,
+#Partially deleted in new
+chrVII	807072	807684	YGR160W	0	+	807072	807684	0	1	612,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	11656	13360	HXT15	0	-	11656	13360	0	1	1704,	0,
+#Deleted in new
+chrIII	37835	38801	APA1	0	-	37835	38801	0	1	966,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	958361	958832	UBC11	0	-	958361	958832	0	1	471,	0,
+#Partially deleted in new
+chrV	98667	99129	YEL028W	0	+	98667	99129	0	1	462,	0,
+#Partially deleted in new
+chrXII	454695	455070	TAR1	0	+	454695	455070	0	1	375,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	546440	547469	YGR031W	0	+	546440	547469	0	1	1029,	0,
+#Partially deleted in new
+chrIII	64674	65568	RRP7	0	-	64674	65568	0	1	894,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	124729	129367	TCB3	0	-	124729	129367	0	1	4638,	0,
+#Partially deleted in new
+chrV	312589	313498	YER076C	0	-	312589	313498	0	1	909,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	917578	917896	YMR321C	0	-	917578	917896	0	1	318,	0,
+#Partially deleted in new
+chrVII	625323	627084	ART5	0	-	625323	627084	0	1	1761,	0,
+#Deleted in new
+chrXI	450	798	YKL225W	0	+	450	798	0	1	348,	0,
+#Partially deleted in new
+chrIV	960085	960361	YDR250C	0	-	960085	960361	0	1	276,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	451631	453479	AIP1	0	-	451631	453479	0	1	1848,	0,
+#Partially deleted in new
+chrXV	44472	44784	YOL150C	0	-	44472	44784	0	1	312,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	1025255	1025609	YOR366W	0	+	1025255	1025609	0	1	354,	0,
+#Partially deleted in new
+chrXII	388671	388773	YLR120W-A	0	+	388671	388773	0	1	102,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	1025003	1025735	FOL2	0	-	1025003	1025735	0	1	732,	0,
+#Deleted in new
+chrM	28486	29266	ATP6	0	+	28486	29266	0	1	780,	0,
+#Partially deleted in new
+chrXV	301046	301238	YOL013W-A	0	+	301046	301238	0	1	192,	0,
+#Partially deleted in new
+chrI	201466	201787	YAR047C	0	-	201466	201787	0	1	321,	0,
+#Partially deleted in new
+chrXV	722564	722918	YOR203W	0	+	722564	722918	0	1	354,	0,
+#Partially deleted in new
+chrXII	855537	855843	YLR366W	0	+	855537	855843	0	1	306,	0,
+#Deleted in new
+chrVIII	5662	5797	YHL048C-A	0	-	5662	5797	0	1	135,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVI	23422	25198	DAK2	0	+	23422	25198	0	1	1776,	0,
+#Partially deleted in new
+chrIV	117663	118517	RPL35A	0	+	117663	118517	0	1	854,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	721700	722030	YLR294C	0	-	721700	722030	0	1	330,	0,
+#Partially deleted in new
+chrVI	227450	228101	YFR036W-A	0	+	227450	228101	0	1	651,	0,
+#Deleted in new
+chrM	36539	43647	COB	0	+	36539	43647	0	1	7108,	0,
+#Partially deleted in new
+chrVII	1073962	1075813	MAL11	0	-	1073962	1075813	0	1	1851,	0,
+#Partially deleted in new
+chrVII	384501	384651	YGL063C-A	0	-	384501	384651	0	1	150,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	243780	245197	YLR049C	0	-	243780	245197	0	1	1417,	0,
+#Deleted in new
+chrI	208366	208663	YAR053W	0	+	208366	208663	0	1	297,	0,
+#Partially deleted in new
+chrI	188106	188811	MST28	0	+	188106	188811	0	1	705,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1481084	1483403	URC2	0	-	1481084	1483403	0	1	2319,	0,
+#Partially deleted in new
+chrIV	836227	836746	YDR187C	0	-	836227	836746	0	1	519,	0,
+#Partially deleted in new
+chrIV	1010175	1011273	DON1	0	+	1010175	1011273	0	1	1098,	0,
+#Partially deleted in new
+chrVI	223709	223973	RPL29	0	-	223709	223973	0	1	264,	0,
+#Partially deleted in new
+chrVI	223130	223793	RPL29	0	-	223130	223793	0	1	663,	0,
+#Partially deleted in new
+chrIII	1391	2135	YCL076W	0	+	1391	2135	0	1	744,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	649302	651732	GLN4	0	+	649302	651732	0	1	2430,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	7243	8383	COS3	0	+	7243	8383	0	1	1140,	0,
+#Partially deleted in new
+chrI	23999	27968	FLO9	0	-	23999	27968	0	1	3969,	0,
+#Partially deleted in new
+chrIV	1212437	1212836	YDR366C	0	-	1212437	1212836	0	1	399,	0,
+#Partially deleted in new
+chrVIII	207233	207530	YHR049C-A	0	-	207233	207530	0	1	297,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrV	68839	69265	YEL045C	0	-	68839	69265	0	1	426,	0,
+#Partially deleted in new
+chrXVI	406171	406498	YPL080C	0	-	406171	406498	0	1	327,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	184352	185915	APN2	0	+	184352	185915	0	1	1563,	0,
+#Partially deleted in new
+chrXV	161578	161791	YOL085W-A	0	+	161578	161791	0	1	213,	0,
+#Deleted in new
+chrXIV	7164	7419	YNL337W	0	+	7164	7419	0	1	255,	0,
+#Partially deleted in new
+chrXII	704492	704960	YLR281C	0	-	704492	704960	0	1	468,	0,
+#Partially deleted in new
+chrXIII	222986	223828	RPS18B	0	-	222986	223828	0	1	842,	0,
+#Partially deleted in new
+chrIV	878658	883927	YDR210C-D	0	-	878658	883927	0	1	5269,	0,
+#Partially deleted in new
+chrIV	769930	770332	YDR157W	0	+	769930	770332	0	1	402,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrV	131771	132551	UBC8	0	+	131771	132551	0	1	780,	0,
+#Partially deleted in new
+chrVIII	175547	176819	YHR033W	0	+	175547	176819	0	1	1272,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	252896	253904	MRM2	0	-	252896	253904	0	1	1008,	0,
+#Partially deleted in new
+chrIII	107022	107417	VMA9	0	+	107022	107417	0	1	395,	0,
+#Partially deleted in new
+chrXII	903065	903404	ECM19	0	+	903065	903404	0	1	339,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	856316	856814	SPC19	0	+	856316	856814	0	1	498,	0,
+#Deleted in new
+chrXVI	933897	934461	YPR197C	0	-	933897	934461	0	1	564,	0,
+#Partially deleted in new
+chrIV	727710	728283	VPS61	0	-	727710	728283	0	1	573,	0,
+#Deleted in new
+chrXVI	939278	939671	ARR2	0	-	939278	939671	0	1	393,	0,
+#Partially deleted in new
+chrVIII	381989	382751	RPL42B	0	-	381989	382751	0	1	762,	0,
+#Partially deleted in new
+chrIX	268308	268473	YIL046W-A	0	+	268308	268473	0	1	165,	0,
+#Partially deleted in new
+chrV	462385	462823	YER145C-A	0	-	462385	462823	0	1	438,	0,
+#Partially deleted in new
+chrXII	423473	423800	YLR140W	0	+	423473	423800	0	1	327,	0,
+#Partially deleted in new
+chrXII	22473	22980	YLL059C	0	-	22473	22980	0	1	507,	0,
+#Partially deleted in new
+chrIV	1283798	1284044	YDR406W-A	0	+	1283798	1284044	0	1	246,	0,
+#Deleted in new
+chrV	559453	560365	PUG1	0	+	559453	560365	0	1	912,	0,
+#Partially deleted in new
+chrXIII	407708	408566	NAT4	0	+	407708	408566	0	1	858,	0,
+#Partially deleted in new
+chrXVI	882982	883318	YPR170C	0	-	882982	883318	0	1	336,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	832812	834195	YTM1	0	+	832812	834195	0	1	1383,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	559550	560444	SEC13	0	+	559550	560444	0	1	894,	0,
+#Deleted in new
+chrXVI	934033	935665	SGE1	0	+	934033	935665	0	1	1632,	0,
+#Partially deleted in new
+chrXII	203289	204081	YLR030W	0	+	203289	204081	0	1	792,	0,
+#Partially deleted in new
+chrII	270246	270633	YBR016W	0	+	270246	270633	0	1	387,	0,
+#Deleted in new
+chrVI	28231	29629	YFL052W	0	+	28231	29629	0	1	1398,	0,
+#Deleted in new
+chrIX	845	1328	YIL177W-A	0	+	845	1328	0	1	483,	0,
+#Partially deleted in new
+chrXII	472478	472610	YLR156C-A	0	-	472478	472610	0	1	132,	0,
+#Deleted in new
+chrI	21565	21850	YAL064W	0	+	21565	21850	0	1	285,	0,
+#Partially deleted in new
+chrXIII	184460	189729	YML045W	0	+	184460	189729	0	1	5269,	0,
+#Deleted in new
+chrXVI	9556	10870	ERR2	0	-	9556	10870	0	1	1314,	0,
+#Partially deleted in new
+chrXI	306210	306720	YKL070W	0	+	306210	306720	0	1	510,	0,
+#Deleted in new
+chrXII	11725	12076	YLL065W	0	+	11725	12076	0	1	351,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	716789	718460	YDR131C	0	-	716789	718460	0	1	1671,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	490393	491992	HFD1	0	-	490393	491992	0	1	1599,	0,
+#Partially deleted in new
+chrVIII	380107	380419	YHR139C-A	0	-	380107	380419	0	1	312,	0,
+#Partially deleted in new
+chrIV	1429187	1430789	PAC11	0	-	1429187	1430789	0	1	1602,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	22524	24294	IMA2	0	-	22524	24294	0	1	1770,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	574475	574928	ATG16	0	-	574475	574928	0	1	453,	0,
+#Partially deleted in new
+chrVIII	149224	149680	ECM12	0	+	149224	149680	0	1	456,	0,
+#Partially deleted in new
+chrII	245905	246547	RCR1	0	+	245905	246547	0	1	642,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	22233	24084	JEN1	0	+	22233	24084	0	1	1851,	0,
+#Partially deleted in new
+chrXV	595111	600380	YOR142W-B	0	+	595111	600380	0	1	5269,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	40747	42610	FRE7	0	+	40747	42610	0	1	1863,	0,
+#Partially deleted in new
+chrXI	369527	369920	YKL036C	0	-	369527	369920	0	1	393,	0,
+#Deleted in new
+chrXIV	783286	783541	YNR077C	0	-	783286	783541	0	1	255,	0,
+#Partially deleted in new
+chrXV	970577	975891	YOR343W-B	0	+	970577	975891	0	1	5314,	0,
+#Partially deleted in new
+chrXI	526829	527231	FMP46	0	-	526829	527231	0	1	402,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	90743	91130	YML090W	0	+	90743	91130	0	1	387,	0,
+#Partially deleted in new
+chrXVI	195252	195648	YPL185W	0	+	195252	195648	0	1	396,	0,
+#Partially deleted in new
+chrIV	432924	433248	YDL009C	0	-	432924	433248	0	1	324,	0,
+#Partially deleted in new
+chrI	139502	141431	SSA1	0	-	139502	141431	0	1	1929,	0,
+#Partially deleted in new
+chrIV	465050	465383	YDR010C	0	-	465050	465383	0	1	333,	0,
+#Partially deleted in new
+chrXVI	850988	856257	YPR158C-D	0	-	850988	856257	0	1	5269,	0,
+#Partially deleted in new
+chrVIII	122549	122765	YHR007C-A	0	-	122549	122765	0	1	216,	0,
+#Partially deleted in new
+chrIV	803194	804517	YDR170W-A	0	+	803194	804517	0	1	1323,	0,
+#Partially deleted in new
+chrV	85044	85545	UTR5	0	-	85044	85545	0	1	501,	0,
+#Partially deleted in new
+chrI	12045	12426	YAL064W-B	0	+	12045	12426	0	1	381,	0,
+#Partially deleted in new
+chrVI	225019	225958	PHO4	0	-	225019	225958	0	1	939,	0,
+#Partially deleted in new
+chrV	243699	244029	YER046W-A	0	+	243699	244029	0	1	330,	0,
+#Partially deleted in new
+chrVIII	466957	467062	YHR180C-B	0	-	466957	467062	0	1	105,	0,
+#Deleted in new
+chrM	27665	27812	ATP8	0	+	27665	27812	0	1	147,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1002509	1003502	CIA1	0	-	1002509	1003502	0	1	993,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	48193	48955	AIM27	0	+	48193	48955	0	1	762,	0,
+#Partially deleted in new
+chrI	220197	220497	YAR064W	0	+	220197	220497	0	1	300,	0,
+#Partially deleted in new
+chrXII	462521	462671	YLR154C-G	0	-	462521	462671	0	1	150,	0,
+#Deleted in new
+chrVI	5065	5521	YFL063W	0	+	5065	5521	0	1	456,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	17576	18566	AAD4	0	-	17576	18566	0	1	990,	0,
+#Partially deleted in new
+chrXI	336536	338753	DEF1	0	-	336536	338753	0	1	2217,	0,
+#Partially deleted in new
+chrVIII	25777	26179	YHL037C	0	-	25777	26179	0	1	402,	0,
+#Partially deleted in new
+chrV	86178	86598	MTC7	0	+	86178	86598	0	1	420,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	203537	205817	SCT1	0	+	203537	205817	0	1	2280,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	224795	227099	SQS1	0	-	224795	227099	0	1	2304,	0,
+#Deleted in new
+chrIII	22428	23379	KRR1	0	-	22428	23379	0	1	951,	0,
+#Partially deleted in new
+chrV	437951	438344	YER135C	0	-	437951	438344	0	1	393,	0,
+#Partially deleted in new
+chrIII	267433	272263	FIG2	0	+	267433	272263	0	1	4830,	0,
+#Partially deleted in new
+chrXII	954490	954889	YLR416C	0	-	954490	954889	0	1	399,	0,
+#Partially deleted in new
+chrXII	903723	904440	CCW14	0	+	903723	904440	0	1	717,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	883238	883595	YPR170W-B	0	+	883238	883595	0	1	357,	0,
+#Partially deleted in new
+chrIV	1468225	1468573	YDR509W	0	+	1468225	1468573	0	1	348,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	515062	516871	GAP1	0	+	515062	516871	0	1	1809,	0,
+#Partially deleted in new
+chrIII	157420	157765	YCR022C	0	-	157420	157765	0	1	345,	0,
+#Partially deleted in new
+chrIV	1108483	1108621	YDR320W-B	0	+	1108483	1108621	0	1	138,	0,
+#Partially deleted in new
+chrXVI	724841	725144	YPR096C	0	-	724841	725144	0	1	303,	0,
+#Partially deleted in new
+chrII	71865	72972	YBL081W	0	+	71865	72972	0	1	1107,	0,
+#Partially deleted in new
+chrV	191958	192624	SPC25	0	-	191958	192624	0	1	666,	0,
+#Partially deleted in new
+chrXV	907725	907935	YOR316C-A	0	-	907725	907935	0	1	210,	0,
+#Partially deleted in new
+chrVIII	280230	280392	YHR086W-A	0	+	280230	280392	0	1	162,	0,
+#Partially deleted in new
+chrXV	818756	819164	YOR263C	0	-	818756	819164	0	1	408,	0,
+#Partially deleted in new
+chrXV	639120	639267	YOR161C-C	0	-	639120	639267	0	1	147,	0,
+#Deleted in new
+chrX	24340	26086	IMA5	0	-	24340	26086	0	1	1746,	0,
+#Partially deleted in new
+chrII	808599	809097	YBR300C	0	-	808599	809097	0	1	498,	0,
+#Deleted in new
+chrVI	9544	10222	DDI2	0	+	9544	10222	0	1	678,	0,
+#Partially deleted in new
+chrXII	704482	704833	YLR280C	0	-	704482	704833	0	1	351,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	677164	677641	FCY1	0	+	677164	677641	0	1	477,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	819432	820824	YDR179W-A	0	+	819432	820824	0	1	1392,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1075864	1077853	YDR307W	0	+	1075864	1077853	0	1	1989,	0,
+#Partially deleted in new
+chrXIII	69408	69726	YML101C-A	0	-	69408	69726	0	1	318,	0,
+#Partially deleted in new
+chrXII	922062	922536	YLR400W	0	+	922062	922536	0	1	474,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	1038714	1039239	YGR273C	0	-	1038714	1039239	0	1	525,	0,
+#Partially deleted in new
+chrXVI	453429	453735	LCL1	0	-	453429	453735	0	1	306,	0,
+#Partially deleted in new
+chrV	335695	336019	YER088C-A	0	-	335695	336019	0	1	324,	0,
+#Partially deleted in new
+chrX	708810	709707	DAN1	0	-	708810	709707	0	1	897,	0,
+#Partially deleted in new
+chrVI	90985	93376	BUD27	0	+	90985	93376	0	1	2391,	0,
+#Partially deleted in new
+chrVIII	525391	528619	FLO5	0	+	525391	528619	0	1	3228,	0,
+#Partially deleted in new
+chrXV	96607	96916	YOL118C	0	-	96607	96916	0	1	309,	0,
+#Partially deleted in new
+chrXIV	1516	2092	YNL339W-A	0	+	1516	2092	0	1	576,	0,
+#Partially deleted in new
+chrX	198677	203325	YJL113W	0	+	198677	203325	0	1	4648,	0,
+#Partially deleted in new
+chrXV	704418	709732	YOR192C-B	0	-	704418	709732	0	1	5314,	0,
+#Deleted in new
+chrIII	35864	37616	LRE1	0	+	35864	37616	0	1	1752,	0,
+#Partially deleted in new
+chrIV	454781	454904	YDR003W-A	0	+	454781	454904	0	1	123,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrX	391832	392249	YJL027C	0	-	391832	392249	0	1	417,	0,
+#Deleted in new
+chrXIV	777601	778738	AIF1	0	-	777601	778738	0	1	1137,	0,
+#Partially deleted in new
+chrII	337987	338338	YBR051W	0	+	337987	338338	0	1	351,	0,
+#Partially deleted in new
+chrIX	433388	433721	YIR040C	0	-	433388	433721	0	1	333,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1241203	1242031	ATO3	0	-	1241203	1242031	0	1	828,	0,
+#Partially deleted in new
+chrII	87645	87957	YBL073W	0	+	87645	87957	0	1	312,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIX	167663	167804	YIL105W-A	0	+	167663	167804	0	1	141,	0,
+#Partially deleted in new
+chrVII	191397	191976	YGL165C	0	-	191397	191976	0	1	579,	0,
+#Partially deleted in new
+chrXV	586949	587342	YOR139C	0	-	586949	587342	0	1	393,	0,
+#Partially deleted in new
+chrXV	1085472	1090863	YRF1-8	0	+	1085472	1090863	0	1	5391,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	966038	968687	KEL2	0	-	966038	968687	0	1	2649,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	1014490	1015450	MRPL4	0	+	1014490	1015450	0	1	960,	0,
+#Partially deleted in new
+chrXV	479532	480420	WHI5	0	+	479532	480420	0	1	888,	0,
+#Partially deleted in new
+chrI	222405	222891	YAR068W	0	+	222405	222891	0	1	486,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	328117	329443	MPE1	0	-	328117	329443	0	1	1326,	0,
+#Partially deleted in new
+chrVII	532638	532941	YGR025W	0	+	532638	532941	0	1	303,	0,
+#Partially deleted in new
+chrI	224010	224304	YAR069C	0	-	224010	224304	0	1	294,	0,
+#Partially deleted in new
+chrVIII	550647	550941	YHR214C-D	0	-	550647	550941	0	1	294,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	273652	274876	QRI7	0	-	273652	274876	0	1	1224,	0,
+#Partially deleted in new
+chrX	26886	28596	HXT8	0	+	26886	28596	0	1	1710,	0,
+#Partially deleted in new
+chrXII	482548	483637	ASP3-3	0	-	482548	483637	0	1	1089,	0,
+#Partially deleted in new
+chrXII	482058	482190	YLR157C-C	0	-	482058	482190	0	1	132,	0,
+#Partially deleted in new
+chrXV	377846	378170	YOR024W	0	+	377846	378170	0	1	324,	0,
+#Partially deleted in new
+chrVII	726973	727730	RPS23A	0	+	726973	727730	0	1	757,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	22303	23203	FZF1	0	+	22303	23203	0	1	900,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	576343	578086	NPL4	0	-	576343	578086	0	1	1743,	0,
+#Partially deleted in new
+chrIV	987533	992349	YDR261C-D	0	-	987533	992349	0	1	4816,	0,
+#Partially deleted in new
+chrXVI	939921	941136	ARR3	0	+	939921	941136	0	1	1215,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	363363	366705	NUP116	0	-	363363	366705	0	1	3342,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrI	51854	52595	AIM2	0	-	51854	52595	0	1	741,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	434640	437397	PEP3	0	+	434640	437397	0	1	2757,	0,
+#Deleted in new
+chrIII	12385	13018	HMLALPHA2	0	-	12385	13018	0	1	633,	0,
+#Partially deleted in new
+chrX	19496	21200	HXT9	0	+	19496	21200	0	1	1704,	0,
+#Partially deleted in new
+chrXVI	1425	2001	YPL283W-A	0	+	1425	2001	0	1	576,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	850936	851839	RRP36	0	-	850936	851839	0	1	903,	0,
+#Partially deleted in new
+chrXII	390953	391331	YLR122C	0	-	390953	391331	0	1	378,	0,
+#Partially deleted in new
+chrXV	930733	931081	SNC2	0	-	930733	931081	0	1	348,	0,
+#Deleted in new
+chrIII	15797	16880	CHA1	0	-	15797	16880	0	1	1083,	0,
+#Partially deleted in new
+chrVIII	364964	365300	YHR130C	0	-	364964	365300	0	1	336,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	590039	592628	PAH1	0	-	590039	592628	0	1	2589,	0,
+#Partially deleted in new
+chrXIII	916745	917051	YMR320W	0	+	916745	917051	0	1	306,	0,
+#Partially deleted in new
+chrXIII	611313	611508	YMR175W-A	0	+	611313	611508	0	1	195,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrI	164543	165866	YAR010C	0	-	164543	165866	0	1	1323,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	700489	701842	THI2	0	-	700489	701842	0	1	1353,	0,
+#Partially deleted in new
+chrVIII	537758	538094	YHR212C	0	-	537758	538094	0	1	336,	0,
+#Partially deleted in new
+chrI	2479	2707	YAL067W-A	0	+	2479	2707	0	1	228,	0,
+#Deleted in new
+chrVIII	810	1293	YHL050W-A	0	+	810	1293	0	1	483,	0,
+#Partially deleted in new
+chrIII	115684	115999	YCR001W	0	+	115684	115999	0	1	315,	0,
+#Partially deleted in new
+chrXIII	99488	99797	YML084W	0	+	99488	99797	0	1	309,	0,
+#Deleted in new
+chrXI	17358	18339	SRY1	0	-	17358	18339	0	1	981,	0,
+#Partially deleted in new
+chrIII	209913	210423	IMG1	0	-	209913	210423	0	1	510,	0,
+#Partially deleted in new
+chrI	73425	73518	YAL037C-A	0	-	73425	73518	0	1	93,	0,
+#Partially deleted in new
+chrIII	65933	68333	HIS4	0	-	65933	68333	0	1	2400,	0,
+#Partially deleted in new
+chrII	805034	805256	YBR298C-A	0	-	805034	805256	0	1	222,	0,
+#Partially deleted in new
+chrV	437190	437532	YER133W-A	0	+	437190	437532	0	1	342,	0,
+#Partially deleted in new
+chrII	490926	491070	YBR126W-B	0	+	490926	491070	0	1	144,	0,
+#Partially deleted in new
+chrI	11564	11951	YAL065C	0	-	11564	11951	0	1	387,	0,
+#Partially deleted in new
+chrV	574803	575379	YER190C-A	0	-	574803	575379	0	1	576,	0,
+#Partially deleted in new
+chrI	186511	186853	YAR030C	0	-	186511	186853	0	1	342,	0,
+#Partially deleted in new
+chrXIV	116678	116867	YNL277W-A	0	+	116678	116867	0	1	189,	0,
+#Deleted in new
+chrVIII	8350	10213	ARN2	0	-	8350	10213	0	1	1863,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	516402	516735	YNL057W	0	+	516402	516735	0	1	333,	0,
+#Partially deleted in new
+chrX	136371	136773	SNA3	0	-	136371	136773	0	1	402,	0,
+#Partially deleted in new
+chrXII	488996	489341	YLR161W	0	+	488996	489341	0	1	345,	0,
+#Partially deleted in new
+chrII	279	2658	YBL113C	0	-	279	2658	0	1	2379,	0,
+#Partially deleted in new
+chrIII	301270	302221	YCR100C	0	-	301270	302221	0	1	951,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	148211	154880	POL2	0	+	148211	154880	0	1	6669,	0,
+#Partially deleted in new
+chrXI	171550	172168	YKL147C	0	-	171550	172168	0	1	618,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	11886	12600	HSP32	0	+	11886	12600	0	1	714,	0,
+#Partially deleted in new
+chrVII	111699	112005	YGL204C	0	-	111699	112005	0	1	306,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	760066	760885	YNR068C	0	-	760066	760885	0	1	819,	0,
+#Deleted in new
+chrXII	6485	6968	YLL066W-A	0	+	6485	6968	0	1	483,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	627805	631273	ROM1	0	+	627805	631273	0	1	3468,	0,
+#Partially deleted in new
+chrX	472759	478028	YJR027W	0	+	472759	478028	0	1	5269,	0,
+#Partially deleted in new
+chrX	294665	295061	ICS3	0	-	294665	295061	0	1	396,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrI	174997	175330	YAR019W-A	0	+	174997	175330	0	1	333,	0,
+#Partially deleted in new
+chrVII	418703	418886	YGL041C-B	0	-	418703	418886	0	1	183,	0,
+#Partially deleted in new
+chrXV	92025	92850	RPS19A	0	-	92025	92850	0	1	825,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	446411	448535	TRP5	0	-	446411	448535	0	1	2124,	0,
+#Partially deleted in new
+chrXIV	11451	12129	DDI3	0	+	11451	12129	0	1	678,	0,
+#Deleted in new
+chrV	569607	569907	YER188C-A	0	-	569607	569907	0	1	300,	0,
+#Partially deleted in new
+chrIII	41487	41727	YCL048W-A	0	+	41487	41727	0	1	240,	0,
+#Partially deleted in new
+chrXV	720416	720815	YOR200W	0	+	720416	720815	0	1	399,	0,
+#Partially deleted in new
+chrXIV	750349	753700	YNR065C	0	-	750349	753700	0	1	3351,	0,
+#Partially deleted in new
+chrVI	17003	18680	AGP3	0	+	17003	18680	0	1	1677,	0,
+#Partially deleted in new
+chrIX	136653	137877	RPI1	0	-	136653	137877	0	1	1224,	0,
+#Deleted in new
+chrIII	13281	13809	HMLALPHA1	0	+	13281	13809	0	1	528,	0,
+#Partially deleted in new
+chrIII	106973	107366	YCL007C	0	-	106973	107366	0	1	393,	0,
+#Deleted in new
+chrM	74494	75984	Q0255	0	+	74494	75984	0	1	1490,	0,
+#Partially deleted in new
+chrIV	62010	62562	YDL221W	0	+	62010	62562	0	1	552,	0,
+#Partially deleted in new
+chrVIII	175194	175374	YHR032W-A	0	+	175194	175374	0	1	180,	0,
+#Deleted in new
+chrIV	3761	3836	YDL247W-A	0	+	3761	3836	0	1	75,	0,
+#Partially deleted in new
+chrXIII	388358	388730	YMR057C	0	-	388358	388730	0	1	372,	0,
+#Partially deleted in new
+chrX	136173	136533	YJL152W	0	+	136173	136533	0	1	360,	0,
+#Partially deleted in new
+chrII	784701	785073	YBR292C	0	-	784701	785073	0	1	372,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	772656	774351	HXT17	0	+	772656	774351	0	1	1695,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrX	23132	23729	REE1	0	+	23132	23729	0	1	597,	0,
+#Partially deleted in new
+chrXIII	69734	70088	CUE4	0	-	69734	70088	0	1	354,	0,
+#Partially deleted in new
+chrXII	795396	796363	RPS25B	0	-	795396	796363	0	1	967,	0,
+#Partially deleted in new
+chrII	36988	37303	YBL100C	0	-	36988	37303	0	1	315,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	353671	356017	UBP14	0	-	353671	356017	0	1	2346,	0,
+#Partially deleted in new
+chrIII	73404	73986	HBN1	0	-	73404	73986	0	1	582,	0,
+#Partially deleted in new
+chrXVI	63278	63860	YPL257W	0	+	63278	63860	0	1	582,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	553175	554570	LEO1	0	-	553175	554570	0	1	1395,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	487198	488380	PTC4	0	-	487198	488380	0	1	1182,	0,
+#Partially deleted in new
+chrVII	5311	5839	YGL262W	0	+	5311	5839	0	1	528,	0,
+#Partially deleted in new
+chrVII	846654	846741	YGR174W-A	0	+	846654	846741	0	1	87,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrX	570404	570773	YJR071W	0	+	570404	570773	0	1	369,	0,
+#Partially deleted in new
+chrII	490849	491056	YBR126W-A	0	+	490849	491056	0	1	207,	0,
+#Partially deleted in new
+chrIII	289638	289797	YCR095W-A	0	+	289638	289797	0	1	159,	0,
+#Partially deleted in new
+chrXIII	167622	167781	YML054C-A	0	-	167622	167781	0	1	159,	0,
+#Partially deleted in new
+chrIII	52644	54882	GID7	0	+	52644	54882	0	1	2238,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	394725	397248	CDC16	0	-	394725	397248	0	1	2523,	0,
+#Partially deleted in new
+chrIV	657647	657980	YDR102C	0	-	657647	657980	0	1	333,	0,
+#Partially deleted in new
+chrVIII	560172	562047	YHR219W	0	+	560172	562047	0	1	1875,	0,
+#Deleted in new
+chrXIV	6560	6719	YNL338W	0	+	6560	6719	0	1	159,	0,
+#Partially deleted in new
+chrXV	117999	123268	YOL103W-B	0	+	117999	123268	0	1	5269,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	531306	534582	ENA2	0	-	531306	534582	0	1	3276,	0,
+#Partially deleted in new
+chrV	540649	540814	YER175W-A	0	+	540649	540814	0	1	165,	0,
+#Partially deleted in new
+chrXIV	305069	306980	YNL176C	0	-	305069	306980	0	1	1911,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1063351	1067425	CFT1	0	+	1063351	1067425	0	1	4074,	0,
+#Partially deleted in new
+chrXIII	510700	511075	YMR122C	0	-	510700	511075	0	1	375,	0,
+#Partially deleted in new
+chrVIII	292942	293437	YHR095W	0	+	292942	293437	0	1	495,	0,
+#Partially deleted in new
+chrXIII	123226	124172	RPL6A	0	-	123226	124172	0	1	946,	0,
+#Deleted in new
+chrXII	5604	5775	YLL066W-B	0	+	5604	5775	0	1	171,	0,
+#Partially deleted in new
+chrXIV	570476	572315	YNL034W	0	+	570476	572315	0	1	1839,	0,
+#Partially deleted in new
+chrII	43764	44097	YBL094C	0	-	43764	44097	0	1	333,	0,
+#Deleted in new
+chrV	575679	576162	YER190C-B	0	-	575679	576162	0	1	483,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	858208	858568	YMR294W-A	0	+	858208	858568	0	1	360,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	274426	275527	GAL7	0	-	274426	275527	0	1	1101,	0,
+#Partially deleted in new
+chrXII	550193	550636	YLR202C	0	-	550193	550636	0	1	443,	0,
+#Partially deleted in new
+chrIII	6478	8326	YCL073C	0	-	6478	8326	0	1	1848,	0,
+#Partially deleted in new
+chrIV	1096063	1101332	YDR316W-B	0	+	1096063	1101332	0	1	5269,	0,
+#Deleted in new
+chrX	26411	26771	YJL215C	0	-	26411	26771	0	1	360,	0,
+#Partially deleted in new
+chrVIII	543963	549346	YHR214C-B	0	-	543963	549346	0	1	5383,	0,
+#Partially deleted in new
+chrXI	656835	657756	YKR104W	0	+	656835	657756	0	1	921,	0,
+#Partially deleted in new
+chrIV	720961	721297	YDR133C	0	-	720961	721297	0	1	336,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	339611	340208	PGA1	0	+	339611	340208	0	1	597,	0,
+#Partially deleted in new
+chrXVI	678950	679370	YPR064W	0	+	678950	679370	0	1	420,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	719032	720604	SPO23	0	+	719032	720604	0	1	1572,	0,
+#Partially deleted in new
+chrXV	254925	255021	YOL038C-A	0	-	254925	255021	0	1	96,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	506696	509999	RAD1	0	+	506696	509999	0	1	3303,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1315325	1317773	SIP1	0	-	1315325	1317773	0	1	2448,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	308073	308646	YNL174W	0	+	308073	308646	0	1	573,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1172385	1174176	YPS7	0	-	1172385	1174176	0	1	1791,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	234926	235853	PCL2	0	+	234926	235853	0	1	927,	0,
+#Deleted in new
+chrXII	1072507	1077898	YRF1-5	0	+	1072507	1077898	0	1	5391,	0,
+#Partially deleted in new
+chrXII	787663	789679	CHS5	0	+	787663	789679	0	1	2016,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1489870	1489990	YDR524C-A	0	-	1489870	1489990	0	1	120,	0,
+#Partially deleted in new
+chrVII	828624	828960	YGR164W	0	+	828624	828960	0	1	336,	0,
+#Partially deleted in new
+chrVII	403686	404391	MST27	0	+	403686	404391	0	1	705,	0,
+#Partially deleted in new
+chrXII	819311	820142	RPL26A	0	+	819311	820142	0	1	831,	0,
+#Partially deleted in new
+chrXIV	198501	199977	NAR1	0	-	198501	199977	0	1	1476,	0,
+#Deleted in new
+chrV	629	1112	YEL077W-A	0	+	629	1112	0	1	483,	0,
+#Deleted in new
+chrIII	34142	35393	PBN1	0	-	34142	35393	0	1	1251,	0,
+#Partially deleted in new
+chrIV	829150	829354	YDR182W-A	0	+	829150	829354	0	1	204,	0,
+#Partially deleted in new
+chrII	90222	90531	YBL071C	0	-	90222	90531	0	1	309,	0,
+#Partially deleted in new
+chrIV	755627	763874	NUM1	0	+	755627	763874	0	1	8247,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	900754	901558	DPM1	0	+	900754	901558	0	1	804,	0,
+#Deleted in new
+chrIII	17289	18561	VAC17	0	+	17289	18561	0	1	1272,	0,
+#Partially deleted in new
+chrXIV	331321	332154	RPL42A	0	+	331321	332154	0	1	833,	0,
+#Partially deleted in new
+chrII	382859	383021	YBR072C-A	0	-	382859	383021	0	1	162,	0,
+#Partially deleted in new
+chrIII	200441	200969	MATALPHA1	0	+	200441	200969	0	1	528,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	279020	280607	GAL1	0	+	279020	280607	0	1	1587,	0,
+#Partially deleted in new
+chrVII	627082	627418	YGR069W	0	+	627082	627418	0	1	336,	0,
+#Partially deleted in new
+chrVI	205747	206257	ULI1	0	-	205747	206257	0	1	510,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrV	462967	464842	SCC4	0	-	462967	464842	0	1	1875,	0,
+#Deleted in new
+chrIII	24031	24325	YCL057C-A	0	-	24031	24325	0	1	294,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	779042	780206	YDR161W	0	+	779042	780206	0	1	1164,	0,
+#Partially deleted in new
+chrVII	441280	442909	SCW11	0	-	441280	442909	0	1	1629,	0,
+#Partially deleted in new
+chrIV	746737	748357	TAF12	0	+	746737	748357	0	1	1620,	0,
+#Deleted in new
+chrIII	315996	316188	YCR108C	0	-	315996	316188	0	1	192,	0,
+#Partially deleted in new
+chrVIII	388980	389337	YHR145C	0	-	388980	389337	0	1	357,	0,
+#Partially deleted in new
+chrV	164343	164661	YER006C-A	0	-	164343	164661	0	1	318,	0,
+#Partially deleted in new
+chrX	294798	294885	YJL077W-A	0	+	294798	294885	0	1	87,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	348643	349522	SUB1	0	-	348643	349522	0	1	879,	0,
+#Partially deleted in new
+chrXIV	413638	416281	DBP2	0	+	413638	416281	0	1	2643,	0,
+#Deleted in new
+chrXII	1070386	1070869	YLR466C-A	0	-	1070386	1070869	0	1	483,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	49937	51947	FPS1	0	+	49937	51947	0	1	2010,	0,
+#Deleted in new
+chrM	51276	51429	Q0143	0	+	51276	51429	0	1	153,	0,
+#Deleted in new
+chrVIII	561198	561681	YHR219C-A	0	-	561198	561681	0	1	483,	0,
+#Partially deleted in new
+chrIII	162598	162865	YCR024C-B	0	-	162598	162865	0	1	267,	0,
+#Partially deleted in new
+chrXVI	25086	26064	SAM4	0	+	25086	26064	0	1	978,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	284580	285165	SNU23	0	-	284580	285165	0	1	585,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	371619	372927	HOG1	0	+	371619	372927	0	1	1308,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	149202	155640	GLT1	0	-	149202	155640	0	1	6438,	0,
+#Partially deleted in new
+chrV	26188	26776	YEL067C	0	-	26188	26776	0	1	588,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrV	335945	337340	PTC2	0	-	335945	337340	0	1	1395,	0,
+#Partially deleted in new
+chrVIII	104276	105091	RPL14B	0	+	104276	105091	0	1	815,	0,
+#Partially deleted in new
+chrIV	1456310	1456694	SPG3	0	-	1456310	1456694	0	1	384,	0,
+#Deleted in new
+chrXIV	733	1216	YNL339W-B	0	+	733	1216	0	1	483,	0,
+#Partially deleted in new
+chrVII	942805	944647	AZR1	0	+	942805	944647	0	1	1842,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	644177	645035	GRX3	0	-	644177	645035	0	1	858,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	68914	71443	CLA4	0	+	68914	71443	0	1	2529,	0,
+#Partially deleted in new
+chrXV	461790	462039	YOR072W-A	0	+	461790	462039	0	1	249,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	473419	475453	YPK2	0	-	473419	475453	0	1	2034,	0,
+#Partially deleted in new
+chrIII	44622	46905	EMC1	0	-	44622	46905	0	1	2283,	0,
+#Partially deleted in new
+chrXVI	252033	254310	AIM44	0	-	252033	254310	0	1	2277,	0,
+#Partially deleted in new
+chrVIII	97731	98085	YHL006W-A	0	+	97731	98085	0	1	354,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	768239	768680	MRPL27	0	+	768239	768680	0	1	441,	0,
+#Partially deleted in new
+chrIV	465918	470424	SNQ2	0	+	465918	470424	0	1	4506,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVI	156144	157752	YFR006W	0	+	156144	157752	0	1	1608,	0,
+#Partially deleted in new
+chrVIII	358857	359163	YHR125W	0	+	358857	359163	0	1	306,	0,
+#Partially deleted in new
+chrXII	215439	218907	YLR035C-A	0	-	215439	218907	0	1	3468,	0,
+#Deleted in new
+chrX	744910	745261	YJR162C	0	-	744910	745261	0	1	351,	0,
+#Partially deleted in new
+chrII	682178	683090	SWC5	0	-	682178	683090	0	1	912,	0,
+#Partially deleted in new
+chrXV	1646	2078	AAD15	0	-	1646	2078	0	1	432,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	427296	427947	PNC1	0	-	427296	427947	0	1	651,	0,
+#Partially deleted in new
+chrXIII	651071	651458	YMR193C-A	0	-	651071	651458	0	1	387,	0,
+#Partially deleted in new
+chrXV	683328	683538	YOR186C-A	0	-	683328	683538	0	1	210,	0,
+#Deleted in new
+chrM	79212	80022	COX3	0	+	79212	80022	0	1	810,	0,
+#Partially deleted in new
+chrII	301518	301821	YBR032W	0	+	301518	301821	0	1	303,	0,
+#Partially deleted in new
+chrII	504853	505306	CKS1	0	+	504853	505306	0	1	453,	0,
+#Partially deleted in new
+chrXII	611531	611930	YLR235C	0	-	611531	611930	0	1	399,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	815914	816931	RPN8	0	-	815914	816931	0	1	1017,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	345664	351037	USO1	0	+	345664	351037	0	1	5373,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1225165	1226536	BCS1	0	-	1225165	1226536	0	1	1371,	0,
+#Partially deleted in new
+chrXVI	500674	502183	SKS1	0	-	500674	502183	0	1	1509,	0,
+#Partially deleted in new
+chrIX	295564	295903	YIL030W-A	0	+	295564	295903	0	1	339,	0,
+#Partially deleted in new
+chrVI	114989	115274	AUA1	0	+	114989	115274	0	1	285,	0,
+#Partially deleted in new
+chrVI	115107	115743	WWM1	0	-	115107	115743	0	1	636,	0,
+#Partially deleted in new
+chrIV	1503313	1504900	FIT1	0	-	1503313	1504900	0	1	1587,	0,
+#Deleted in new
+chrIII	39785	40724	YCL049C	0	-	39785	40724	0	1	939,	0,
+#Partially deleted in new
+chrXIV	282394	283009	YNL190W	0	+	282394	283009	0	1	615,	0,
+#Partially deleted in new
+chrX	730514	730877	YJR157W	0	+	730514	730877	0	1	363,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	549447	551367	TRM2	0	+	549447	551367	0	1	1920,	0,
+#Partially deleted in new
+chrII	202055	203261	FMT1	0	+	202055	203261	0	1	1206,	0,
+#Partially deleted in new
+chrXV	911783	912436	YOR318C	0	-	911783	912436	0	1	653,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	85455	86757	TRM11	0	-	85455	86757	0	1	1302,	0,
+#Partially deleted in new
+chrXIII	478063	478258	YMR105W-A	0	+	478063	478258	0	1	195,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	500578	501049	APS1	0	-	500578	501049	0	1	471,	0,
+#Partially deleted in new
+chrV	140725	140818	YEL008C-A	0	-	140725	140818	0	1	93,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrX	468000	468333	YJR020W	0	+	468000	468333	0	1	333,	0,
+#Partially deleted in new
+chrXVI	213041	213962	CUP9	0	-	213041	213962	0	1	921,	0,
+#Partially deleted in new
+chrV	13719	14415	RMD6	0	+	13719	14415	0	1	696,	0,
+#Partially deleted in new
+chrX	459794	460418	YJR012C	0	-	459794	460418	0	1	624,	0,
+#Partially deleted in new
+chrIII	81569	82085	YCL022C	0	-	81569	82085	0	1	516,	0,
+#Partially deleted in new
+chrXV	27083	27218	YOL155W-A	0	+	27083	27218	0	1	135,	0,
+#Partially deleted in new
+chrVIII	209474	209645	YHR050W-A	0	+	209474	209645	0	1	171,	0,
+#Partially deleted in new
+chrXIII	878779	879130	YMR304C-A	0	-	878779	879130	0	1	351,	0,
+#Partially deleted in new
+chrIX	177372	177726	YIL100W	0	+	177372	177726	0	1	354,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	321781	323230	SRM1	0	+	321781	323230	0	1	1449,	0,
+#Partially deleted in new
+chrXIII	573193	573331	YMR158C-A	0	-	573193	573331	0	1	138,	0,
+#Partially deleted in new
+chrXII	489572	489929	YLR162W	0	+	489572	489929	0	1	357,	0,
+#Partially deleted in new
+chrXV	19490	21311	ENB1	0	-	19490	21311	0	1	1821,	0,
+#Partially deleted in new
+chrXV	678871	679261	FYV12	0	+	678871	679261	0	1	390,	0,
+#Partially deleted in new
+chrXV	113225	113579	YOL106W	0	+	113225	113579	0	1	354,	0,
+#Deleted in new
+chrXVI	642	1125	YPL283W-B	0	+	642	1125	0	1	483,	0,
+#Partially deleted in new
+chrI	124306	124492	YAL016C-B	0	-	124306	124492	0	1	186,	0,
+#Partially deleted in new
+chrX	76802	79262	SWE1	0	-	76802	79262	0	1	2460,	0,
+#Partially deleted in new
+chrVIII	453557	453707	YHR175W-A	0	+	453557	453707	0	1	150,	0,
+#Partially deleted in new
+chrIX	313712	314051	YIL020C-A	0	-	313712	314051	0	1	339,	0,
+#Partially deleted in new
+chrXVI	7932	8427	PAU22	0	-	7932	8427	0	1	495,	0,
+#Partially deleted in new
+chrVI	192736	193435	YFR020W	0	+	192736	193435	0	1	699,	0,
+#Partially deleted in new
+chrIV	700314	701289	YDR124W	0	+	700314	701289	0	1	975,	0,
+#Partially deleted in new
+chrXV	300689	300980	YOL013W-B	0	+	300689	300980	0	1	291,	0,
+#Deleted in new
+chrIV	1525094	1525523	YDR544C	0	-	1525094	1525523	0	1	429,	0,
+#Partially deleted in new
+chrXI	382497	383103	YKL030W	0	+	382497	383103	0	1	606,	0,
+#Partially deleted in new
+chrIII	59025	60726	GFD2	0	+	59025	60726	0	1	1701,	0,
+#Partially deleted in new
+chrV	561704	562625	YER186C	0	-	561704	562625	0	1	921,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrX	16766	18536	IMA4	0	-	16766	18536	0	1	1770,	0,
+#Partially deleted in new
+chrIII	42164	43556	SPS22	0	+	42164	43556	0	1	1392,	0,
+#Partially deleted in new
+chrIV	872111	877425	YDR210W-B	0	+	872111	877425	0	1	5314,	0,
+#Partially deleted in new
+chrVI	106414	106732	YFL015W-A	0	+	106414	106732	0	1	318,	0,
+#Partially deleted in new
+chrIII	85101	90415	YCL019W	0	+	85101	90415	0	1	5314,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	106709	108188	MSB4	0	+	106709	108188	0	1	1479,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrI	7234	9016	SEO1	0	-	7234	9016	0	1	1782,	0,
+#Partially deleted in new
+chrIX	246391	246826	YIL060W	0	+	246391	246826	0	1	435,	0,
+#Partially deleted in new
+chrXIII	777614	777923	YMR254C	0	-	777614	777923	0	1	309,	0,
+#Partially deleted in new
+chrIII	200910	201243	YCR041W	0	+	200910	201243	0	1	333,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	631151	632801	PCK1	0	+	631151	632801	0	1	1650,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	844281	845730	ADE13	0	+	844281	845730	0	1	1449,	0,
+#Partially deleted in new
+chrIII	76017	77919	AGP1	0	-	76017	77919	0	1	1902,	0,
+#Partially deleted in new
+chrV	402374	402719	YER121W	0	+	402374	402719	0	1	345,	0,
+#Partially deleted in new
+chrXIV	96963	102232	YNL284C-B	0	-	96963	102232	0	1	5269,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	554604	555729	HAT1	0	+	554604	555729	0	1	1125,	0,
+#Partially deleted in new
+chrIX	246913	247198	YIL058W	0	+	246913	247198	0	1	285,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	112474	114664	KEX1	0	-	112474	114664	0	1	2190,	0,
+#Deleted in new
+chrII	5789	6125	YBL109W	0	+	5789	6125	0	1	336,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	901708	902413	PRE5	0	+	901708	902413	0	1	705,	0,
+#Partially deleted in new
+chrIV	1469694	1469811	YDR510C-A	0	-	1469694	1469811	0	1	117,	0,
+#Partially deleted in new
+chrXII	80355	80697	RRT7	0	-	80355	80697	0	1	342,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrI	183769	184477	UIP3	0	+	183769	184477	0	1	708,	0,
+#Partially deleted in new
+chrVII	909060	909174	YGR204C-A	0	-	909060	909174	0	1	114,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	149385	150687	KDX1	0	-	149385	150687	0	1	1302,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	850273	850999	CAB5	0	-	850273	850999	0	1	726,	0,
+#Partially deleted in new
+chrIV	1345646	1346039	YDR442W	0	+	1345646	1346039	0	1	393,	0,
+#Partially deleted in new
+chrIII	126010	126730	YCR007C	0	-	126010	126730	0	1	720,	0,
+#Deleted in new
+chrV	571154	571523	YER189W	0	+	571154	571523	0	1	369,	0,
+#Partially deleted in new
+chrXVI	860313	860415	YPR159C-A	0	-	860313	860415	0	1	102,	0,
+#Partially deleted in new
+chrI	61230	61608	YAL042C-A	0	-	61230	61608	0	1	378,	0,
+#Partially deleted in new
+chrIV	1328389	1328701	YDR431W	0	+	1328389	1328701	0	1	312,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	587694	588918	YLR225C	0	-	587694	588918	0	1	1224,	0,
+#Partially deleted in new
+chrXI	653079	656736	NFT1	0	+	653079	656736	0	1	3657,	0,
+#Partially deleted in new
+chrXV	720180	720510	YOR199W	0	+	720180	720510	0	1	330,	0,
+#Partially deleted in new
+chrXII	485710	485842	YLR159C-A	0	-	485710	485842	0	1	132,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	360916	361486	YNL140C	0	-	360916	361486	0	1	570,	0,
+#Deleted in new
+chrII	645	1128	YBL113W-A	0	+	645	1128	0	1	483,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIII	101316	101788	YCL012C	0	-	101316	101788	0	1	472,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	281955	282456	BUD20	0	-	281955	282456	0	1	501,	0,
+#Partially deleted in new
+chrXIV	519455	520778	YNL054W-A	0	+	519455	520778	0	1	1323,	0,
+#Partially deleted in new
+chrIV	1150880	1151183	YDR340W	0	+	1150880	1151183	0	1	303,	0,
+#Partially deleted in new
+chrVII	483259	483637	BRP1	0	+	483259	483637	0	1	378,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	406303	407584	AVO2	0	+	406303	407584	0	1	1281,	0,
+#Partially deleted in new
+chrIV	1162005	1162449	YDR344C	0	-	1162005	1162449	0	1	444,	0,
+#Partially deleted in new
+chrVII	403436	403742	YGL052W	0	+	403436	403742	0	1	306,	0,
+#Partially deleted in new
+chrXII	476332	481601	YLR157C-B	0	-	476332	481601	0	1	5269,	0,
+#Partially deleted in new
+chrIII	294438	294705	YCR097W-A	0	+	294438	294705	0	1	267,	0,
+#Deleted in new
+chrXV	1090014	1090497	YOR396C-A	0	-	1090014	1090497	0	1	483,	0,
+#Partially deleted in new
+chrXII	898005	898896	RPS29A	0	+	898005	898896	0	1	891,	0,
+#Deleted in new
+chrM	13817	26701	COX1	0	+	13817	26701	0	1	12884,	0,
+#Partially deleted in new
+chrXII	855522	855645	YLR364C-A	0	-	855522	855645	0	1	123,	0,
+#Partially deleted in new
+chrXII	651116	652439	YLR256W-A	0	+	651116	652439	0	1	1323,	0,
+#Deleted in new
+chrM	65769	66174	Q0182	0	+	65769	66174	0	1	405,	0,
+#Partially deleted in new
+chrVI	106468	106963	YFL015C	0	-	106468	106963	0	1	495,	0,
+#Partially deleted in new
+chrXII	455432	455636	YLR154W-E	0	+	455432	455636	0	1	204,	0,
+#Partially deleted in new
+chrXV	299692	300067	YOL014W	0	+	299692	300067	0	1	375,	0,
+#Partially deleted in new
+chrXVI	688171	688807	YPR071W	0	+	688171	688807	0	1	636,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	177607	178621	MEU1	0	+	177607	178621	0	1	1014,	0,
+#Partially deleted in new
+chrXII	931064	931755	RPL31B	0	-	931064	931755	0	1	691,	0,
+#Partially deleted in new
+chrV	474040	474805	PET122	0	-	474040	474805	0	1	765,	0,
+#Partially deleted in new
+chrXV	424269	424617	YOR050C	0	-	424269	424617	0	1	348,	0,
+#Partially deleted in new
+chrII	259868	265140	YBR012W-B	0	+	259868	265140	0	1	5272,	0,
+#Partially deleted in new
+chrV	136370	136778	YEL009C-A	0	-	136370	136778	0	1	408,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIX	278425	279847	TED1	0	+	278425	279847	0	1	1422,	0,
+#Partially deleted in new
+chrIV	306925	307789	RPS16B	0	-	306925	307789	0	1	864,	0,
+#Partially deleted in new
+chrXI	525256	525562	YKR047W	0	+	525256	525562	0	1	306,	0,
+#Partially deleted in new
+chrVIII	167351	167672	YHR028W-A	0	+	167351	167672	0	1	321,	0,
+#Partially deleted in new
+chrXVI	282121	282970	RPL33A	0	+	282121	282970	0	1	849,	0,
+#Partially deleted in new
+chrIX	333010	333352	YIL012W	0	+	333010	333352	0	1	342,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrI	57487	57796	YAL045C	0	-	57487	57796	0	1	309,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVIII	442180	443476	DBP8	0	+	442180	443476	0	1	1296,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	383454	384408	YDC1	0	+	383454	384408	0	1	954,	0,
+#Partially deleted in new
+chrV	263	4097	YEL077C	0	-	263	4097	0	1	3834,	0,
+#Partially deleted in new
+chrIV	645857	651126	YDR098C-B	0	-	645857	651126	0	1	5269,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	303235	305593	SOK2	0	-	303235	305593	0	1	2358,	0,
+#Partially deleted in new
+chrVI	263956	264325	YFR056C	0	-	263956	264325	0	1	369,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	361057	361828	NFU1	0	-	361057	361828	0	1	771,	0,
+#Partially deleted in new
+chrIV	535191	538467	ENA1	0	-	535191	538467	0	1	3276,	0,
+#Partially deleted in new
+chrXII	757264	757612	YLR311C	0	-	757264	757612	0	1	348,	0,
+#Partially deleted in new
+chrIV	106740	107070	YDL196W	0	+	106740	107070	0	1	330,	0,
+#Partially deleted in new
+chrXII	486200	487289	ASP3-4	0	-	486200	487289	0	1	1089,	0,
+#Partially deleted in new
+chrXV	703987	704224	YOR192C-C	0	-	703987	704224	0	1	237,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	341141	341675	IMP2	0	+	341141	341675	0	1	534,	0,
+#Partially deleted in new
+chrIX	16783	18553	IMA3	0	-	16783	18553	0	1	1770,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIII	224398	224734	TAH1	0	+	224398	224734	0	1	336,	0,
+#Partially deleted in new
+chrI	190192	192256	YAT1	0	+	190192	192256	0	1	2064,	0,
+#Partially deleted in new
+chrXIV	652464	653103	YNR014W	0	+	652464	653103	0	1	639,	0,
+#Partially deleted in new
+chrII	391350	391617	YBR076C-A	0	-	391350	391617	0	1	267,	0,
+#Partially deleted in new
+chrXIII	353870	354731	MCM1	0	+	353870	354731	0	1	861,	0,
+#Partially deleted in new
+chrXIII	608688	609981	DDR48	0	+	608688	609981	0	1	1293,	0,
+#Deleted in new
+chrXII	1071593	1071710	YLR466C-B	0	-	1071593	1071710	0	1	117,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	607562	609101	SPR3	0	+	607562	609101	0	1	1539,	0,
+#Partially deleted in new
+chrXIV	61957	62943	RPS19B	0	-	61957	62943	0	1	986,	0,
+#Deleted in new
+chrIII	27928	28936	KAR4	0	+	27928	28936	0	1	1008,	0,
+#Partially deleted in new
+chrIX	177342	177681	YIL100C-A	0	-	177342	177681	0	1	339,	0,
+#Partially deleted in new
+chrIV	454121	454754	RCR2	0	+	454121	454754	0	1	633,	0,
+#Deleted in new
+chrV	556295	558680	YER184C	0	-	556295	558680	0	1	2385,	0,
+#Partially deleted in new
+chrXIII	68293	69700	CAC2	0	+	68293	69700	0	1	1407,	0,
+#Partially deleted in new
+chrXII	1006024	1006408	YLR434C	0	-	1006024	1006408	0	1	384,	0,
+#Partially deleted in new
+chrVII	1088869	1089445	YGR296C-A	0	-	1088869	1089445	0	1	576,	0,
+#Partially deleted in new
+chrV	318645	318810	YER078W-A	0	+	318645	318810	0	1	165,	0,
+#Partially deleted in new
+chrXV	28702	31606	HPF1	0	-	28702	31606	0	1	2904,	0,
+#Partially deleted in new
+chrI	203402	208016	FLO1	0	+	203402	208016	0	1	4614,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	379557	380831	CPT1	0	-	379557	380831	0	1	1274,	0,
+#Partially deleted in new
+chrXVI	818129	818693	YPR142C	0	-	818129	818693	0	1	564,	0,
+#Deleted in new
+chrVIII	15666	16119	YHL042W	0	+	15666	16119	0	1	453,	0,
+#Deleted in new
+chrM	85553	85709	Q0297	0	+	85553	85709	0	1	156,	0,
+#Partially deleted in new
+chrXVI	786140	786575	YPR123C	0	-	786140	786575	0	1	435,	0,
+#Partially deleted in new
+chrVIII	540799	541099	YHR213W-B	0	+	540799	541099	0	1	300,	0,
+#Partially deleted in new
+chrIX	302099	302498	YIL028W	0	+	302099	302498	0	1	399,	0,
+#Partially deleted in new
+chrXV	939347	939557	YOR329W-A	0	+	939347	939557	0	1	210,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	878281	879508	CSR1	0	+	878281	879508	0	1	1227,	0,
+#Partially deleted in new
+chrIV	477959	478199	YDR015C	0	-	477959	478199	0	1	240,	0,
+#Partially deleted in new
+chrXII	708447	710136	CTS1	0	-	708447	710136	0	1	1689,	0,
+#Partially deleted in new
+chrVII	806411	807656	NSR1	0	-	806411	807656	0	1	1245,	0,
+#Partially deleted in new
+chrVII	817746	823015	YGR161C-D	0	-	817746	823015	0	1	5269,	0,
+#Deleted in new
+chrI	217156	217492	YAR060C	0	-	217156	217492	0	1	336,	0,
+#Partially deleted in new
+chrII	458607	458832	YBR109W-A	0	+	458607	458832	0	1	225,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	475117	475741	YPL041C	0	-	475117	475741	0	1	624,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	920087	921401	ERR3	0	+	920087	921401	0	1	1314,	0,
+#Partially deleted in new
+chrXII	393483	393894	YLR125W	0	+	393483	393894	0	1	411,	0,
+#Partially deleted in new
+chrV	140511	140892	YEL008W	0	+	140511	140892	0	1	381,	0,
+#Partially deleted in new
+chrXIV	252058	253900	SSB2	0	+	252058	253900	0	1	1842,	0,
+#Partially deleted in new
+chrVII	402588	403302	PRM8	0	+	402588	403302	0	1	714,	0,
+#Partially deleted in new
+chrXII	374943	377238	AVL9	0	-	374943	377238	0	1	2295,	0,
+#Partially deleted in new
+chrXI	382071	382485	YKL031W	0	+	382071	382485	0	1	414,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	529941	531411	MSG5	0	+	529941	531411	0	1	1470,	0,
+#Partially deleted in new
+chrXII	802652	805106	VRP1	0	-	802652	805106	0	1	2454,	0,
+#Deleted in new
+chrXV	4129	4312	YOL164W-A	0	+	4129	4312	0	1	183,	0,
+#Partially deleted in new
+chrXII	593437	598706	YLR227W-B	0	+	593437	598706	0	1	5269,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	450219	452475	NTH1	0	-	450219	452475	0	1	2256,	0,
+#Partially deleted in new
+chrII	259146	259566	YBR012C	0	-	259146	259566	0	1	420,	0,
+#Partially deleted in new
+chrXI	280920	281535	YKL083W	0	+	280920	281535	0	1	615,	0,
+#Partially deleted in new
+chrXV	761391	761721	YOR225W	0	+	761391	761721	0	1	330,	0,
+#Partially deleted in new
+chrXII	932205	932355	YLR406C-A	0	-	932205	932355	0	1	150,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	79111	80365	COG1	0	-	79111	80365	0	1	1254,	0,
+#Partially deleted in new
+chrIX	325211	325526	YIL014C-A	0	-	325211	325526	0	1	315,	0,
+#Partially deleted in new
+chrXI	661441	663289	YKR106W	0	+	661441	663289	0	1	1848,	0,
+#Partially deleted in new
+chrXI	369364	369721	AIM26	0	+	369364	369721	0	1	357,	0,
+#Partially deleted in new
+chrIV	1159607	1161320	HXT6	0	-	1159607	1161320	0	1	1713,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVIII	225441	225777	YHR063W-A	0	+	225441	225777	0	1	336,	0,
+#Partially deleted in new
+chrII	186843	191583	PEP1	0	-	186843	191583	0	1	4740,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	654033	654417	ICY1	0	+	654033	654417	0	1	384,	0,
+#Partially deleted in new
+chrV	468369	468816	SPI1	0	+	468369	468816	0	1	447,	0,
+#Partially deleted in new
+chrXIII	549735	550044	YMR141C	0	-	549735	550044	0	1	309,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrX	157876	158194	YJL135W	0	+	157876	158194	0	1	318,	0,
+#Partially deleted in new
+chrXVI	647011	647347	YPR039W	0	+	647011	647347	0	1	336,	0,
+#Partially deleted in new
+chrI	192336	192417	YAR035C-A	0	-	192336	192417	0	1	81,	0,
+#Partially deleted in new
+chrXIV	137698	138094	BSC4	0	+	137698	138094	0	1	396,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrV	441372	441819	YER137C	0	-	441372	441819	0	1	447,	0,
+#Deleted in new
+chrVI	3321	3846	YFL064C	0	-	3321	3846	0	1	525,	0,
+#Partially deleted in new
+chrIV	26402	28775	ADY3	0	-	26402	28775	0	1	2373,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrX	315758	316475	MRPL8	0	-	315758	316475	0	1	717,	0,
+#Partially deleted in new
+chrXV	344334	345798	TIR4	0	+	344334	345798	0	1	1464,	0,
+#Partially deleted in new
+chrVII	529263	530919	MTL1	0	+	529263	530919	0	1	1656,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIX	268650	270573	MET30	0	+	268650	270573	0	1	1923,	0,
+#Partially deleted in new
+chrV	551472	551796	YER181C	0	-	551472	551796	0	1	324,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	116395	117454	NDJ1	0	-	116395	117454	0	1	1059,	0,
+#Partially deleted in new
+chrXII	680865	681216	YLR269C	0	-	680865	681216	0	1	351,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	490195	490828	VPS21	0	-	490195	490828	0	1	633,	0,
+#Partially deleted in new
+chrI	160596	164187	YAR009C	0	-	160596	164187	0	1	3591,	0,
+#Partially deleted in new
+chrIV	1526320	1531711	YRF1-1	0	+	1526320	1531711	0	1	5391,	0,
+#Partially deleted in new
+chrIII	47110	48364	MGR1	0	-	47110	48364	0	1	1254,	0,
+#Partially deleted in new
+chrXIV	24047	27173	EGT2	0	+	24047	27173	0	1	3126,	0,
+#Partially deleted in new
+chrIV	389171	392057	GPR1	0	-	389171	392057	0	1	2886,	0,
+#Partially deleted in new
+chrIII	54940	56527	ATG22	0	-	54940	56527	0	1	1587,	0,
+#Partially deleted in new
+chrXIII	758562	759183	YMR245W	0	+	758562	759183	0	1	621,	0,
+#Partially deleted in new
+chrIII	57373	58678	SRO9	0	-	57373	58678	0	1	1305,	0,
+#Partially deleted in new
+chrIV	945150	945438	BUD26	0	+	945150	945438	0	1	288,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	463433	464996	GAL3	0	+	463433	464996	0	1	1563,	0,
+#Deleted in new
+chrXV	14312	14654	YOL160W	0	+	14312	14654	0	1	342,	0,
+#Deleted in new
+chrV	4869	5481	YEL075W-A	0	+	4869	5481	0	1	612,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	558510	560625	DBF4	0	-	558510	560625	0	1	2115,	0,
+#Partially deleted in new
+chrXIV	547112	547370	YNL042W-B	0	+	547112	547370	0	1	258,	0,
+#Deleted in new
+chrV	5344	5713	YEL075C	0	-	5344	5713	0	1	369,	0,
+#Deleted in new
+chrXIV	779915	781040	COS10	0	+	779915	781040	0	1	1125,	0,
+#Deleted in new
+chrXII	1067044	1067353	BSC3	0	-	1067044	1067353	0	1	309,	0,
+#Partially deleted in new
+chrXV	341277	342414	SLG1	0	-	341277	342414	0	1	1137,	0,
+#Deleted in new
+chrI	334	649	YAL069W	0	+	334	649	0	1	315,	0,
+#Deleted in new
+chrXII	1065955	1066564	YLR462W	0	+	1065955	1066564	0	1	609,	0,
+#Partially deleted in new
+chrVII	796797	797868	GTO1	0	-	796797	797868	0	1	1071,	0,
+#Partially deleted in new
+chrXIII	587273	589550	MSS11	0	-	587273	589550	0	1	2277,	0,
+#Partially deleted in new
+chrIV	167358	167715	YDL162C	0	-	167358	167715	0	1	357,	0,
+#Partially deleted in new
+chrXV	999	1338	YOL166C	0	-	999	1338	0	1	339,	0,
+#Partially deleted in new
+chrX	9345	9483	YJL222W-B	0	+	9345	9483	0	1	138,	0,
+#Partially deleted in new
+chrIV	409807	410056	YDL022C-A	0	-	409807	410056	0	1	249,	0,
+#Partially deleted in new
+chrXV	461501	461816	YOR072W	0	+	461501	461816	0	1	315,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	132016	132508	YOL099C	0	-	132016	132508	0	1	492,	0,
+#Partially deleted in new
+chrIII	31448	33974	SPB1	0	+	31448	33974	0	1	2526,	0,
+#Partially deleted in new
+chrIV	1087580	1088942	SSF2	0	+	1087580	1088942	0	1	1362,	0,
+#Partially deleted in new
+chrIII	211870	212317	YCR049C	0	-	211870	212317	0	1	447,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	842336	843449	HST4	0	+	842336	843449	0	1	1113,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVIII	192804	193545	DOG2	0	-	192804	193545	0	1	741,	0,
+#Partially deleted in new
+chrXII	490405	490594	RRT15	0	+	490405	490594	0	1	189,	0,
+#Partially deleted in new
+chrXII	809996	815627	FKS1	0	+	809996	815627	0	1	5631,	0,
+#Partially deleted in new
+chrXII	950266	950473	YLR412C-A	0	-	950266	950473	0	1	207,	0,
+#Partially deleted in new
+chrVI	138203	143517	YFL002W-A	0	+	138203	143517	0	1	5314,	0,
+#Partially deleted in new
+chrXV	480586	481750	LPX1	0	+	480586	481750	0	1	1164,	0,
+#Partially deleted in new
+chrIV	514042	519356	YDR034C-D	0	-	514042	519356	0	1	5314,	0,
+#Partially deleted in new
+chrVII	702666	703116	YGR107W	0	+	702666	703116	0	1	450,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVIII	380571	381291	YHR140W	0	+	380571	381291	0	1	720,	0,
+#Deleted in new
+chrXV	1078544	1079258	HSP33	0	-	1078544	1079258	0	1	714,	0,
+#Partially deleted in new
+chrVII	756895	757447	PEX4	0	+	756895	757447	0	1	552,	0,
+#Partially deleted in new
+chrXIV	599935	601774	YNL018C	0	-	599935	601774	0	1	1839,	0,
+#Partially deleted in new
+chrVIII	149574	150345	YHR022C	0	-	149574	150345	0	1	771,	0,
+#Deleted in new
+chrXII	1077049	1077532	YLR467C-A	0	-	1077049	1077532	0	1	483,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	22937	24701	SAM3	0	+	22937	24701	0	1	1764,	0,
+#Partially deleted in new
+chrVII	187463	187796	HUR1	0	+	187463	187796	0	1	333,	0,
+#Partially deleted in new
+chrVII	6859	7090	YGL260W	0	+	6859	7090	0	1	231,	0,
+#Deleted in new
+chrXV	6174	8115	BDS1	0	+	6174	8115	0	1	1941,	0,
+#Partially deleted in new
+chrIX	174581	174887	YIL102C	0	-	174581	174887	0	1	306,	0,
+#Deleted in new
+chrI	537	792	YAL068W-A	0	+	537	792	0	1	255,	0,
+#Partially deleted in new
+chrII	810339	811479	COS2	0	-	810339	811479	0	1	1140,	0,
+#Partially deleted in new
+chrIII	199545	200178	MATALPHA2	0	-	199545	200178	0	1	633,	0,
+#Partially deleted in new
+chrIX	291960	292317	YIL032C	0	-	291960	292317	0	1	357,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	575097	577626	EFT1	0	+	575097	577626	0	1	2529,	0,
+#Partially deleted in new
+chrIV	8682	9756	SOR2	0	-	8682	9756	0	1	1074,	0,
+#Deleted in new
+chrVIII	13564	14272	YHL044W	0	+	13564	14272	0	1	708,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	557919	559002	IDH1	0	-	557919	559002	0	1	1083,	0,
+#Partially deleted in new
+chrII	209408	209648	YBL008W-A	0	+	209408	209648	0	1	240,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	359824	361285	MCH1	0	-	359824	361285	0	1	1461,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	685881	687840	APC4	0	+	685881	687840	0	1	1959,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	25272	26976	HXT11	0	+	25272	26976	0	1	1704,	0,
+#Partially deleted in new
+chrXV	968147	968474	YOR343C	0	-	968147	968474	0	1	327,	0,
+#Partially deleted in new
+chrV	313389	313737	YER076W-A	0	+	313389	313737	0	1	348,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	331117	334465	PAN2	0	-	331117	334465	0	1	3348,	0,
+#Partially deleted in new
+chrII	533234	533549	YBR144C	0	-	533234	533549	0	1	315,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	747936	748875	CDA2	0	+	747936	748875	0	1	939,	0,
+#Partially deleted in new
+chrXV	651375	651840	YOR169C	0	-	651375	651840	0	1	465,	0,
+#Partially deleted in new
+chrX	469803	470205	YJR023C	0	-	469803	470205	0	1	402,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	134508	135705	TPK3	0	-	134508	135705	0	1	1197,	0,
+#Partially deleted in new
+chrXI	518197	518950	YKR041W	0	+	518197	518950	0	1	753,	0,
+#Partially deleted in new
+chrIV	1434499	1434991	YDR491C	0	-	1434499	1434991	0	1	492,	0,
+#Partially deleted in new
+chrIV	1318045	1319275	CAD1	0	-	1318045	1319275	0	1	1230,	0,
+#Partially deleted in new
+chrIX	308200	308575	YIL025C	0	-	308200	308575	0	1	375,	0,
+#Partially deleted in new
+chrIII	63440	64481	STE50	0	+	63440	64481	0	1	1041,	0,
+#Deleted in new
+chrIII	11502	12285	YCL068C	0	-	11502	12285	0	1	783,	0,
+#Partially deleted in new
+chrXVI	56747	62016	YPL257W-B	0	+	56747	62016	0	1	5269,	0,
+#Partially deleted in new
+chrX	85434	85752	YJL182C	0	-	85434	85752	0	1	318,	0,
+#Partially deleted in new
+chrI	95385	95823	YAL026C-A	0	-	95385	95823	0	1	438,	0,
+#Partially deleted in new
+chrVI	74871	75192	YFL032W	0	+	74871	75192	0	1	321,	0,
+#Partially deleted in new
+chrIII	71802	73341	FUS1	0	+	71802	73341	0	1	1539,	0,
+#Partially deleted in new
+chrIV	322225	322988	RPL31A	0	+	322225	322988	0	1	763,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrV	472656	473988	YER152C	0	-	472656	473988	0	1	1332,	0,
+#Partially deleted in new
+chrXII	388743	390270	YPS3	0	-	388743	390270	0	1	1527,	0,
+#Partially deleted in new
+chrVII	485422	485533	YGL006W-A	0	+	485422	485533	0	1	111,	0,
+#Partially deleted in new
+chrXIV	96172	96544	YNL285W	0	+	96172	96544	0	1	372,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	221723	221801	RPL41B	0	-	221723	221801	0	1	78,	0,
+#Partially deleted in new
+chrXII	568566	570627	FRE1	0	+	568566	570627	0	1	2061,	0,
+#Partially deleted in new
+chrIV	384600	385587	BSC1	0	-	384600	385587	0	1	987,	0,
+#Partially deleted in new
+chrX	391310	391646	YJL028W	0	+	391310	391646	0	1	336,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	479224	480175	YPL039W	0	+	479224	480175	0	1	951,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	366032	366412	YSF3	0	+	366032	366412	0	1	380,	0,
+#Partially deleted in new
+chrVI	258854	259433	YFR054C	0	-	258854	259433	0	1	579,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	22822	25876	LRG1	0	+	22822	25876	0	1	3054,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	668236	668563	VPS63	0	-	668236	668563	0	1	327,	0,
+#Partially deleted in new
+chrXVI	296285	296654	YPL136W	0	+	296285	296654	0	1	369,	0,
+#Deleted in new
+chrIV	1524633	1524933	YDR543C	0	-	1524633	1524933	0	1	300,	0,
+#Deleted in new
+chrXIII	923493	923802	YMR326C	0	-	923493	923802	0	1	309,	0,
+#Partially deleted in new
+chrXIII	550910	551135	YMR141W-A	0	+	550910	551135	0	1	225,	0,
+#Deleted in new
+chrII	800122	800242	YBR296C-A	0	-	800122	800242	0	1	120,	0,
+#Partially deleted in new
+chrXV	717085	718384	MCA1	0	+	717085	718384	0	1	1299,	0,
+#Deleted in new
+chrVI	1436	2615	YFL066C	0	-	1436	2615	0	1	1179,	0,
+#Partially deleted in new
+chrIV	404748	405060	YDL026W	0	+	404748	405060	0	1	312,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	387314	388244	AAC1	0	-	387314	388244	0	1	930,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	175226	176744	BRE2	0	+	175226	176744	0	1	1518,	0,
+#Partially deleted in new
+chrIX	254542	254860	YIL054W	0	+	254542	254860	0	1	318,	0,
+#Partially deleted in new
+chrXV	1071792	1072923	FDH1	0	-	1071792	1072923	0	1	1131,	0,
+#Partially deleted in new
+chrIX	385563	385701	YIR018C-A	0	-	385563	385701	0	1	138,	0,
+#Deleted in new
+chrIII	24767	26906	PRD1	0	+	24767	26906	0	1	2139,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	138106	139045	COQ3	0	-	138106	139045	0	1	939,	0,
+#Deleted in new
+chrXVI	943879	944188	YPR203W	0	+	943879	944188	0	1	309,	0,
+#Partially deleted in new
+chrXIII	907363	910786	YMR317W	0	+	907363	910786	0	1	3423,	0,
+#Partially deleted in new
+chrXI	219125	219437	YKL118W	0	+	219125	219437	0	1	312,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	53497	55153	THI21	0	-	53497	55153	0	1	1656,	0,
+#Partially deleted in new
+chrIII	163445	163856	YCR025C	0	-	163445	163856	0	1	411,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	226569	228765	ABF1	0	+	226569	228765	0	1	2196,	0,
+#Partially deleted in new
+chrXI	552769	554620	GLG1	0	+	552769	554620	0	1	1851,	0,
+#Deleted in new
+chrIII	26924	27359	YCL056C	0	-	26924	27359	0	1	435,	0,
+#Partially deleted in new
+chrXVI	324023	324287	YPL119C-A	0	-	324023	324287	0	1	264,	0,
+#Partially deleted in new
+chrV	269422	270185	RPL34A	0	-	269422	270185	0	1	763,	0,
+#Partially deleted in new
+chrIV	520515	520692	YDR034C-A	0	-	520515	520692	0	1	177,	0,
+#Deleted in new
+chrVI	3029	3338	YFL065C	0	-	3029	3338	0	1	309,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	310198	313078	NUP100	0	+	310198	313078	0	1	2880,	0,
+#Partially deleted in new
+chrXII	954258	954597	YLR415C	0	-	954258	954597	0	1	339,	0,
+#Partially deleted in new
+chrVI	835	1363	YFL067W	0	+	835	1363	0	1	528,	0,
+#Partially deleted in new
+chrIV	79293	80412	YDL211C	0	-	79293	80412	0	1	1119,	0,
+#Partially deleted in new
+chrII	29934	35248	YBL100W-B	0	+	29934	35248	0	1	5314,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	1080275	1081589	ERR1	0	+	1080275	1081589	0	1	1314,	0,
+#Partially deleted in new
+chrVIII	147870	148669	RPS27B	0	-	147870	148669	0	1	799,	0,
+#Partially deleted in new
+chrVI	177041	180743	YFR016C	0	-	177041	180743	0	1	3702,	0,
+#Partially deleted in new
+chrIII	43660	44437	YCL047C	0	-	43660	44437	0	1	777,	0,
+#Partially deleted in new
+chrII	238940	241283	NTH2	0	-	238940	241283	0	1	2343,	0,
+#Partially deleted in new
+chrVII	288013	288451	YGL118C	0	-	288013	288451	0	1	438,	0,
+#Partially deleted in new
+chrXVI	646835	647195	IRC16	0	+	646835	647195	0	1	360,	0,
+#Partially deleted in new
+chrIII	78948	79296	YCL023C	0	-	78948	79296	0	1	348,	0,
+#Partially deleted in new
+chrIII	302481	303030	YCR101C	0	-	302481	303030	0	1	549,	0,
+#Partially deleted in new
+chrIII	46639	46963	YCL046W	0	+	46639	46963	0	1	324,	0,
+#Partially deleted in new
+chrIII	228094	228505	YCR064C	0	-	228094	228505	0	1	411,	0,
+#Deleted in new
+chrIII	23522	23981	FYV5	0	-	23522	23981	0	1	459,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	801771	802704	PPA2	0	+	801771	802704	0	1	933,	0,
+#Partially deleted in new
+chrXII	342565	342961	YLR101C	0	-	342565	342961	0	1	396,	0,
+#Partially deleted in new
+chrX	712254	715740	DAN4	0	-	712254	715740	0	1	3486,	0,
+#Partially deleted in new
+chrXI	315280	315724	YKL066W	0	+	315280	315724	0	1	444,	0,
+#Deleted in new
+chrVII	1089745	1090228	YGR296C-B	0	-	1089745	1090228	0	1	483,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIX	150558	151188	SDP1	0	+	150558	151188	0	1	630,	0,
+#Partially deleted in new
+chrVIII	556580	557042	YHR217C	0	-	556580	557042	0	1	462,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrX	649775	651269	IBA57	0	+	649775	651269	0	1	1494,	0,
+#Partially deleted in new
+chrIV	96081	97953	ACK1	0	-	96081	97953	0	1	1872,	0,
+#Partially deleted in new
+chrXIII	70137	70311	YML100W-A	0	+	70137	70311	0	1	174,	0,
+#Partially deleted in new
+chrIV	681923	682226	YDR114C	0	-	681923	682226	0	1	303,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	527421	530697	ENA5	0	-	527421	530697	0	1	3276,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrV	549723	550527	ISC10	0	-	549723	550527	0	1	804,	0,
+#Partially deleted in new
+chrXV	867997	868147	YOR293C-A	0	-	867997	868147	0	1	150,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	229038	230838	MEX67	0	-	229038	230838	0	1	1800,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	154289	156212	SRP72	0	-	154289	156212	0	1	1923,	0,
+#Partially deleted in new
+chrXV	17280	17796	YOL159C	0	-	17280	17796	0	1	516,	0,
+#Partially deleted in new
+chrVIII	17391	17841	YHL041W	0	+	17391	17841	0	1	450,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVI	224325	224769	QCR6	0	-	224325	224769	0	1	444,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	808628	809420	RTS3	0	-	808628	809420	0	1	792,	0,
+#Deleted in new
+chrIII	309069	310155	ADH7	0	+	309069	310155	0	1	1086,	0,
+#Partially deleted in new
+chrXII	469316	470405	ASP3-1	0	-	469316	470405	0	1	1089,	0,
+#Deleted in new
+chrIII	13750	14119	YCL065W	0	+	13750	14119	0	1	369,	0,
+#Partially deleted in new
+chrXII	370790	371210	YLR112W	0	+	370790	371210	0	1	420,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	996028	998323	AKR1	0	-	996028	998323	0	1	2295,	0,
+#Deleted in new
+chrIII	9705	11082	VBA3	0	+	9705	11082	0	1	1377,	0,
+#Deleted in new
+chrM	30873	31014	Q0092	0	+	30873	31014	0	1	141,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrV	292239	292563	YER067C-A	0	-	292239	292563	0	1	324,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrV	167807	171818	SEC3	0	-	167807	171818	0	1	4011,	0,
+#Partially deleted in new
+chrXVI	48995	49304	YPL261C	0	-	48995	49304	0	1	309,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	574887	575199	YGR039W	0	+	574887	575199	0	1	312,	0,
+#Partially deleted in new
+chrVI	100251	100605	YFL019C	0	-	100251	100605	0	1	354,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrX	732439	734143	HXT16	0	+	732439	734143	0	1	1704,	0,
+#Partially deleted in new
+chrXII	796697	797078	YLR334C	0	-	796697	797078	0	1	381,	0,
+#Partially deleted in new
+chrX	736043	737117	SOR1	0	+	736043	737117	0	1	1074,	0,
+#Partially deleted in new
+chrXI	518062	518566	YKR040C	0	-	518062	518566	0	1	504,	0,
+#Partially deleted in new
+chrIV	491016	491502	FYV1	0	+	491016	491502	0	1	486,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	158655	159693	RIB1	0	-	158655	159693	0	1	1038,	0,
+#Deleted in new
+chrVIII	559931	560249	YHR218W-A	0	+	559931	560249	0	1	318,	0,
+#Partially deleted in new
+chrII	135997	136366	YBL044W	0	+	135997	136366	0	1	369,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrI	54583	54913	YAL047W-A	0	+	54583	54913	0	1	330,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrI	152256	153876	NUP60	0	+	152256	153876	0	1	1620,	0,
+#Partially deleted in new
+chrIII	68598	69921	BIK1	0	-	68598	69921	0	1	1323,	0,
+#Partially deleted in new
+chrXIII	539910	540444	YMR135W-A	0	+	539910	540444	0	1	534,	0,
+#Deleted in new
+chrM	54108	54438	Q0144	0	+	54108	54438	0	1	330,	0,
+#Partially deleted in new
+chrV	25645	25978	YEL068C	0	-	25645	25978	0	1	333,	0,
+#Partially deleted in new
+chrXIII	506995	507370	YMR119W-A	0	+	506995	507370	0	1	375,	0,
+#Partially deleted in new
+chrXVI	927964	928294	YPR195C	0	-	927964	928294	0	1	330,	0,
+#Partially deleted in new
+chrIV	289571	290081	YDL094C	0	-	289571	290081	0	1	510,	0,
+#Partially deleted in new
+chrIII	50132	50627	YCL041C	0	-	50132	50627	0	1	495,	0,
+#Partially deleted in new
+chrX	117961	118825	YJL160C	0	-	117961	118825	0	1	864,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	255719	256472	UTP11	0	-	255719	256472	0	1	753,	0,
+#Partially deleted in new
+chrXV	1069620	1070241	YOR387C	0	-	1069620	1070241	0	1	621,	0,
+#Partially deleted in new
+chrIII	262915	263269	YCR085W	0	+	262915	263269	0	1	354,	0,
+#Partially deleted in new
+chrXIV	300665	301103	YNL179C	0	-	300665	301103	0	1	438,	0,
+#Partially deleted in new
+chrXV	822587	824867	HRK1	0	-	822587	824867	0	1	2280,	0,
+#Partially deleted in new
+chrII	662498	663303	YBR219C	0	-	662498	663303	0	1	805,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	174919	177526	MCM2	0	-	174919	177526	0	1	2607,	0,
+#Partially deleted in new
+chrIV	126786	130002	VMA1	0	+	126786	130002	0	1	3216,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrI	68715	69525	CYC3	0	-	68715	69525	0	1	810,	0,
+#Partially deleted in new
+chrX	639941	640451	YJR115W	0	+	639941	640451	0	1	510,	0,
+#Partially deleted in new
+chrXV	678190	678793	RPS30B	0	-	678190	678793	0	1	603,	0,
+#Partially deleted in new
+chrIV	217599	218367	RPL35B	0	+	217599	218367	0	1	768,	0,
+#Deleted in new
+chrXII	1066264	1066816	YLR463C	0	-	1066264	1066816	0	1	552,	0,
+#Deleted in new
+chrXVI	944602	947701	YPR204W	0	+	944602	947701	0	1	3099,	0,
+#Partially deleted in new
+chrIV	635839	636175	YDR094W	0	+	635839	636175	0	1	336,	0,
+#Partially deleted in new
+chrXVI	379119	381150	RLM1	0	-	379119	381150	0	1	2031,	0,
+#Deleted in new
+chrM	3951	4338	Q0010	0	+	3951	4338	0	1	387,	0,
+#Deleted in new
+chrIII	306734	306932	YCR102W-A	0	+	306734	306932	0	1	198,	0,
+#Partially deleted in new
+chrIV	441013	442309	MED2	0	-	441013	442309	0	1	1296,	0,
+#Partially deleted in new
+chrIX	316767	317932	RPL2B	0	+	316767	317932	0	1	1165,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	154990	158232	APE2	0	+	154990	158232	0	1	3242,	0,
+#Partially deleted in new
+chrXII	452437	452623	YLR154W-A	0	+	452437	452623	0	1	186,	0,
+#Partially deleted in new
+chrXIII	769282	769426	YMR247W-A	0	+	769282	769426	0	1	144,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrX	483958	486196	YJR030C	0	-	483958	486196	0	1	2238,	0,
+#Partially deleted in new
+chrXIII	625810	625897	YMR182W-A	0	+	625810	625897	0	1	87,	0,
+#Partially deleted in new
+chrV	491486	491702	YER158W-A	0	+	491486	491702	0	1	216,	0,
+#Partially deleted in new
+chrX	291335	293981	PRY3	0	-	291335	293981	0	1	2646,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1485565	1487038	SPS1	0	-	1485565	1487038	0	1	1473,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIII	96280	101191	BUD3	0	+	96280	101191	0	1	4911,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	349005	363738	MDN1	0	-	349005	363738	0	1	14733,	0,
+#Partially deleted in new
+chrX	478343	483612	YJR029W	0	+	478343	483612	0	1	5269,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	918365	919079	SNO4	0	-	918365	919079	0	1	714,	0,
+#Partially deleted in new
+chrVII	592905	593229	YGR051C	0	-	592905	593229	0	1	324,	0,
+#Partially deleted in new
+chrXI	2388	2721	YKL223W	0	+	2388	2721	0	1	333,	0,
+#Partially deleted in new
+chrXII	481872	482037	YLR157W-E	0	+	481872	482037	0	1	165,	0,
+#Partially deleted in new
+chrXIII	904285	904393	YMR315W-A	0	+	904285	904393	0	1	108,	0,
+#Partially deleted in new
+chrIV	844553	844952	YDR193W	0	+	844553	844952	0	1	399,	0,
+#Partially deleted in new
+chrXV	397425	397668	YOR034C-A	0	-	397425	397668	0	1	243,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	910431	910737	MVB12	0	+	910431	910737	0	1	306,	0,
+#Partially deleted in new
+chrII	9267	9372	YBL107W-A	0	+	9267	9372	0	1	105,	0,
+#Partially deleted in new
+chrXIII	922201	922444	YMR324C	0	-	922201	922444	0	1	243,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	14484	15708	COS9	0	+	14484	15708	0	1	1224,	0,
+#Partially deleted in new
+chrXVI	281055	281517	SNR17B	0	-	281055	281517	0	1	462,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	1052823	1057257	YOR1	0	+	1052823	1057257	0	1	4434,	0,
+#Deleted in new
+chrXVI	938147	939032	ARR1	0	-	938147	939032	0	1	885,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVIII	106054	107368	OSH7	0	+	106054	107368	0	1	1314,	0,
+#Partially deleted in new
+chrIV	60871	61801	FMP45	0	-	60871	61801	0	1	930,	0,
+#Partially deleted in new
+chrXII	391077	391407	YLR123C	0	-	391077	391407	0	1	330,	0,
+#Partially deleted in new
+chrXIII	37471	37774	YML116W-A	0	+	37471	37774	0	1	303,	0,
+#Partially deleted in new
+chrV	492855	498124	YER160C	0	-	492855	498124	0	1	5269,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	98720	99641	LOT5	0	+	98720	99641	0	1	921,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	208156	209806	PPQ1	0	+	208156	209806	0	1	1650,	0,
+#Partially deleted in new
+chrVIII	85908	91318	YHL009W-B	0	+	85908	91318	0	1	5410,	0,
+#Partially deleted in new
+chrXI	248061	248367	YKL102C	0	-	248061	248367	0	1	306,	0,
+#Deleted in new
+chrXIII	1609	2185	YML133W-A	0	+	1609	2185	0	1	576,	0,
+#Deleted in new
+chrXII	842	1325	YLL067W-A	0	+	842	1325	0	1	483,	0,
+#Partially deleted in new
+chrX	197914	198595	YJL114W	0	+	197914	198595	0	1	681,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	825533	825932	YOR268C	0	-	825533	825932	0	1	399,	0,
+#Partially deleted in new
+chrVII	707609	712254	YGR109W-B	0	+	707609	712254	0	1	4645,	0,
+#Partially deleted in new
+chrXI	258502	258913	YKL097C	0	-	258502	258913	0	1	411,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	85585	86950	YPL245W	0	+	85585	86950	0	1	1365,	0,
+#Partially deleted in new
+chrVI	20846	22787	YFL054C	0	-	20846	22787	0	1	1941,	0,
+#Partially deleted in new
+chrVI	112344	113985	HXT10	0	+	112344	113985	0	1	1641,	0,
+#Partially deleted in new
+chrXIV	500922	502777	SUN4	0	+	500922	502777	0	1	1855,	0,
+#Partially deleted in new
+chrXV	1045195	1045351	YOR376W-A	0	+	1045195	1045351	0	1	156,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	759781	760660	YOR223W	0	+	759781	760660	0	1	879,	0,
+#Deleted in new
+chrM	4253	4415	Q0017	0	+	4253	4415	0	1	162,	0,
+#Partially deleted in new
+chrXV	342856	343081	YOR008C-A	0	-	342856	343081	0	1	225,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	518733	520233	IRC15	0	-	518733	520233	0	1	1500,	0,
+#Partially deleted in new
+chrX	365783	368373	NSP1	0	+	365783	368373	0	1	2590,	0,
+#Partially deleted in new
+chrX	18242	18695	YJL220W	0	+	18242	18695	0	1	453,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	476931	478032	EOS1	0	-	476931	478032	0	1	1101,	0,
+#Partially deleted in new
+chrIV	981461	986775	YDR261W-B	0	+	981461	986775	0	1	5314,	0,
+#Partially deleted in new
+chrII	221329	226598	YBL005W-B	0	+	221329	226598	0	1	5269,	0,
+#Partially deleted in new
+chrXII	704308	704698	YLR279W	0	+	704308	704698	0	1	390,	0,
+#Partially deleted in new
+chrVIII	387232	387445	RPC10	0	+	387232	387445	0	1	213,	0,
+#Partially deleted in new
+chrVI	226120	226465	YFR035C	0	-	226120	226465	0	1	345,	0,
+#Partially deleted in new
+chrII	8176	8482	YBL108W	0	+	8176	8482	0	1	306,	0,
+#Partially deleted in new
+chrVII	1079884	1080346	YGR293C	0	-	1079884	1080346	0	1	462,	0,
+#Partially deleted in new
+chrVII	428600	431330	YGL036W	0	+	428600	431330	0	1	2730,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	326627	327662	MRP51	0	+	326627	327662	0	1	1035,	0,
+#Deleted in new
+chrI	10090	10399	YAL066W	0	+	10090	10399	0	1	309,	0,
+#Partially deleted in new
+chrXIV	781510	781603	YNR075C-A	0	-	781510	781603	0	1	93,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	389379	389883	GPX1	0	-	389379	389883	0	1	504,	0,
+#Partially deleted in new
+chrIII	79161	82275	KCC4	0	+	79161	82275	0	1	3114,	0,
+#Partially deleted in new
+chrXVI	654165	654847	RPL43A	0	+	654165	654847	0	1	682,	0,
+#Deleted in new
+chrM	61021	61729	SCEI	0	+	61021	61729	0	1	708,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrI	108876	110430	FUN26	0	-	108876	110430	0	1	1554,	0,
+#Partially deleted in new
+chrXIII	442025	442364	YMR086C-A	0	-	442025	442364	0	1	339,	0,
+#Partially deleted in new
+chrXVI	805000	810269	YPR137C-B	0	-	805000	810269	0	1	5269,	0,
+#Partially deleted in new
+chrXII	105555	105861	YLL020C	0	-	105555	105861	0	1	306,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	475544	476069	YGL010W	0	+	475544	476069	0	1	525,	0,
+#Partially deleted in new
+chrXIII	74228	74558	YML099W-A	0	+	74228	74558	0	1	330,	0,
+#Partially deleted in new
+chrVII	1075481	1075925	YGR290W	0	+	1075481	1075925	0	1	444,	0,
+#Deleted in new
+chrM	73757	74513	COX2	0	+	73757	74513	0	1	756,	0,
+#Partially deleted in new
+chrIX	200152	200461	YIL086C	0	-	200152	200461	0	1	309,	0,
+#Partially deleted in new
+chrXIII	608896	610081	YMR173W-A	0	+	608896	610081	0	1	1185,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1055211	1055892	MHR1	0	+	1055211	1055892	0	1	681,	0,
+#Partially deleted in new
+chrIX	18259	18712	YIL171W-A	0	+	18259	18712	0	1	453,	0,
+#Partially deleted in new
+chrVI	109809	110184	YFL012W-A	0	+	109809	110184	0	1	375,	0,
+#Partially deleted in new
+chrV	443755	449024	YER138C	0	-	443755	449024	0	1	5269,	0,
+#Partially deleted in new
+chrX	386347	386662	YJL032W	0	+	386347	386662	0	1	315,	0,
+#Deleted in new
+chrXIII	826	1309	YML133W-B	0	+	826	1309	0	1	483,	0,
+#Partially deleted in new
+chrVII	270996	272139	SCS3	0	+	270996	272139	0	1	1143,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1089218	1090079	PIB1	0	-	1089218	1090079	0	1	861,	0,
+#Partially deleted in new
+chrVII	811737	817051	YGR161W-B	0	+	811737	817051	0	1	5314,	0,
+#Partially deleted in new
+chrXII	454391	454556	YLR154W-B	0	+	454391	454556	0	1	165,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	818865	820158	DSE3	0	+	818865	820158	0	1	1293,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIX	326102	327995	MNT3	0	+	326102	327995	0	1	1893,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	572908	573232	YLR217W	0	+	572908	573232	0	1	324,	0,
+#Deleted in new
+chrXV	584	740	YOL166W-A	0	+	584	740	0	1	156,	0,
+#Deleted in new
+chrV	6125	6464	YEL074W	0	+	6125	6464	0	1	339,	0,
+#Partially deleted in new
+chrXIII	196627	201896	YML039W	0	+	196627	201896	0	1	5269,	0,
+#Partially deleted in new
+chrI	186835	187732	PRM9	0	+	186835	187732	0	1	897,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIII	109104	110670	PGS1	0	+	109104	110670	0	1	1566,	0,
+#Partially deleted in new
+chrIV	462251	462602	YDR008C	0	-	462251	462602	0	1	351,	0,
+#Partially deleted in new
+chrXVI	453991	454990	LGE1	0	-	453991	454990	0	1	999,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	199539	201315	ADE16	0	-	199539	201315	0	1	1776,	0,
+#Deleted in new
+chrXV	1079281	1079725	YOR392W	0	+	1079281	1079725	0	1	444,	0,
+#Partially deleted in new
+chrVIII	539150	539747	YHR213W	0	+	539150	539747	0	1	597,	0,
+#Partially deleted in new
+chrXVI	480181	480373	YPL038W-A	0	+	480181	480373	0	1	192,	0,
+#Deleted in new
+chrXV	1084201	1084369	YOR394C-A	0	-	1084201	1084369	0	1	168,	0,
+#Partially deleted in new
+chrVII	516942	520863	MSB2	0	+	516942	520863	0	1	3921,	0,
+#Partially deleted in new
+chrXIII	357358	362627	YMR045C	0	-	357358	362627	0	1	5269,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	1081127	1084316	SUM1	0	-	1081127	1084316	0	1	3189,	0,
+#Partially deleted in new
+chrXII	472968	474057	ASP3-2	0	-	472968	474057	0	1	1089,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	472901	473264	YMR103C	0	-	472901	473264	0	1	363,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	221520	222132	YLR036C	0	-	221520	222132	0	1	612,	0,
+#Partially deleted in new
+chrIV	160994	163154	NRP1	0	-	160994	163154	0	1	2160,	0,
+#Partially deleted in new
+chrV	335926	336073	YER088W-B	0	+	335926	336073	0	1	147,	0,
+#Partially deleted in new
+chrX	662920	663280	YJR128W	0	+	662920	663280	0	1	360,	0,
+#Partially deleted in new
+chrV	491529	491958	BUR6	0	-	491529	491958	0	1	429,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	431768	432125	YMR082C	0	-	431768	432125	0	1	357,	0,
+#Partially deleted in new
+chrIII	50583	50943	YCL042W	0	+	50583	50943	0	1	360,	0,
+#Partially deleted in new
+chrXII	611793	612117	YLR236C	0	-	611793	612117	0	1	324,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXVI	422884	423892	BTS1	0	-	422884	423892	0	1	1008,	0,
+#Partially deleted in new
+chrIII	62775	63282	MXR2	0	-	62775	63282	0	1	507,	0,
+#Partially deleted in new
+chrXVI	560568	560766	YPR002C-A	0	-	560568	560766	0	1	198,	0,
+#Partially deleted in new
+chrII	792848	796499	PCA1	0	+	792848	796499	0	1	3651,	0,
+#Partially deleted in new
+chrXI	68231	70220	PTK1	0	-	68231	70220	0	1	1989,	0,
+#Partially deleted in new
+chrVIII	466931	467114	YHR180W-A	0	+	466931	467114	0	1	183,	0,
+#Partially deleted in new
+chrIV	1011588	1011960	YDR274C	0	-	1011588	1011960	0	1	372,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	646414	650923	HAP1	0	+	646414	650923	0	1	4509,	0,
+#Partially deleted in new
+chrIV	308423	309388	RPL13A	0	+	308423	309388	0	1	965,	0,
+#Partially deleted in new
+chrII	265491	265881	YBR013C	0	-	265491	265881	0	1	390,	0,
+#Partially deleted in new
+chrIV	1506605	1507362	YDR535C	0	-	1506605	1507362	0	1	757,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVIII	452871	453441	CTR2	0	+	452871	453441	0	1	570,	0,
+#Partially deleted in new
+chrVII	529256	529586	YGR022C	0	-	529256	529586	0	1	330,	0,
+#Deleted in new
+chrM	48900	50097	VAR1	0	+	48900	50097	0	1	1197,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVII	43306	44509	TAD1	0	+	43306	44509	0	1	1203,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	74269	76747	YLL032C	0	-	74269	76747	0	1	2478,	0,
+#Partially deleted in new
+chrII	372102	372735	TIP1	0	-	372102	372735	0	1	633,	0,
+#Partially deleted in new
+chrXIII	409153	410626	MOT3	0	+	409153	410626	0	1	1473,	0,
+#Partially deleted in new
+chrX	191021	191345	YJL120W	0	+	191021	191345	0	1	324,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIX	178003	179653	SGA1	0	+	178003	179653	0	1	1650,	0,
+#Partially deleted in new
+chrVI	182273	182861	YFR017C	0	-	182273	182861	0	1	588,	0,
+#Partially deleted in new
+chrVII	1000926	1002240	ENO1	0	+	1000926	1002240	0	1	1314,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrX	217704	218856	PRM10	0	-	217704	218856	0	1	1152,	0,
+#Deleted in new
+chrIII	23583	23925	ADF1	0	+	23583	23925	0	1	342,	0,
+#Partially deleted in new
+chrI	179280	179820	YAR023C	0	-	179280	179820	0	1	540,	0,
+#Deleted in new
+chrII	2581	2899	YBL112C	0	-	2581	2899	0	1	318,	0,
+#Partially deleted in new
+chrVI	76013	76115	YFL031C-A	0	-	76013	76115	0	1	102,	0,
+#Partially deleted in new
+chrXVI	193647	194145	MF(ALPHA)1	0	+	193647	194145	0	1	498,	0,
+#Partially deleted in new
+chrXIV	662912	663581	TIM23	0	+	662912	663581	0	1	669,	0,
+#Partially deleted in new
+chrXI	578186	578507	YKR073C	0	-	578186	578507	0	1	321,	0,
+#Partially deleted in new
+chrIV	592438	592948	SNF11	0	+	592438	592948	0	1	510,	0,
+#Deleted in new
+chrIII	18815	22106	MRC1	0	-	18815	22106	0	1	3291,	0,
+#Partially deleted in new
+chrXII	645599	645953	YLR255C	0	-	645599	645953	0	1	354,	0,
+#Partially deleted in new
+chrXI	259072	259222	YKL096C-B	0	-	259072	259222	0	1	150,	0,
+#Partially deleted in new
+chrXV	903042	903372	YOR314W	0	+	903042	903372	0	1	330,	0,
+#Partially deleted in new
+chrIV	1206996	1212265	YDR365W-B	0	+	1206996	1212265	0	1	5269,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	466333	466642	SNN1	0	+	466333	466642	0	1	309,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrI	82705	83227	POP5	0	+	82705	83227	0	1	522,	0,
+#Deleted in new
+chrX	828	1311	YJL225W-A	0	+	828	1311	0	1	483,	0,
+#Deleted in new
+chrVIII	14900	15413	ECM34	0	+	14900	15413	0	1	513,	0,
+#Partially deleted in new
+chrXII	95565	97485	SSA2	0	-	95565	97485	0	1	1920,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	153847	158389	STU1	0	-	153847	158389	0	1	4542,	0,
+#Partially deleted in new
+chrXII	423682	424774	RRN5	0	+	423682	424774	0	1	1092,	0,
+#Partially deleted in new
+chrVI	30057	30540	YFL051C	0	-	30057	30540	0	1	483,	0,
+#Deleted in new
+chrM	46722	46953	OLI1	0	+	46722	46953	0	1	231,	0,
+#Partially deleted in new
+chrII	614525	614630	YBR196C-B	0	-	614525	614630	0	1	105,	0,
+#Partially deleted in new
+chrV	355139	355469	YER097W	0	+	355139	355469	0	1	330,	0,
+#Partially deleted in new
+chrV	69756	70257	IES6	0	+	69756	70257	0	1	501,	0,
+#Partially deleted in new
+chrV	571479	576525	YRF1-2	0	+	571479	576525	0	1	5046,	0,
+#Partially deleted in new
+chrXIV	61509	61857	YNL303W	0	+	61509	61857	0	1	348,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrX	643489	644101	ILM1	0	-	643489	644101	0	1	612,	0,
+#Partially deleted in new
+chrIII	48652	50221	PDI1	0	-	48652	50221	0	1	1569,	0,
+#Partially deleted in new
+chrXV	977193	978069	TYE7	0	-	977193	978069	0	1	876,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXII	21137	21839	GTT2	0	-	21137	21839	0	1	702,	0,
+#Partially deleted in new
+chrVII	859062	859476	QCR9	0	-	859062	859476	0	1	414,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrV	457805	460223	UBP5	0	-	457805	460223	0	1	2418,	0,
+#Deleted in new
+chrM	11666	11957	Q0032	0	+	11666	11957	0	1	291,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrVIII	6400	7546	COS8	0	+	6400	7546	0	1	1146,	0,
+#Partially deleted in new
+chrXII	472112	472457	YLR156W	0	+	472112	472457	0	1	345,	0,
+#Deleted in new
+chrIV	1517135	1517675	IRC4	0	-	1517135	1517675	0	1	540,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	906235	907555	COT1	0	-	906235	907555	0	1	1320,	0,
+#Partially deleted in new
+chrIII	233124	236322	SED4	0	-	233124	236322	0	1	3198,	0,
+#Partially deleted in new
+chrV	136278	136629	YEL010W	0	+	136278	136629	0	1	351,	0,
+#Partially deleted in new
+chrX	59855	60182	MBB1	0	-	59855	60182	0	1	327,	0,
+#Partially deleted in new
+chrIX	256225	257063	RPL34B	0	-	256225	257063	0	1	838,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIV	140877	144078	PIK1	0	+	140877	144078	0	1	3201,	0,
+#Partially deleted in new
+chrVII	536056	541325	YGR027W-B	0	+	536056	541325	0	1	5269,	0,
+#Partially deleted in new
+chrXII	855198	855531	YLR365W	0	+	855198	855531	0	1	333,	0,
+#Partially deleted in new
+chrXIV	381244	381391	DGR1	0	-	381244	381391	0	1	147,	0,
+#Partially deleted in new
+chrXII	468826	468958	YLR154C-H	0	-	468826	468958	0	1	132,	0,
+#Partially deleted in new
+chrX	422697	423012	YJL007C	0	-	422697	423012	0	1	315,	0,
+#Partially deleted in new
+chrXI	356321	356642	YKL044W	0	+	356321	356642	0	1	321,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	704669	705386	YBR242W	0	+	704669	705386	0	1	717,	0,
+#Partially deleted in new
+chrVII	592085	592442	YGR050C	0	-	592085	592442	0	1	357,	0,
+#Partially deleted in new
+chrVIII	465177	465669	YHR180W	0	+	465177	465669	0	1	492,	0,
+#Partially deleted in new
+chrVIII	538741	538945	YHR212W-A	0	+	538741	538945	0	1	204,	0,
+#Partially deleted in new
+chrIII	61657	62722	LSB5	0	+	61657	62722	0	1	1065,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIV	432329	433025	GRX6	0	+	432329	433025	0	1	696,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrX	491080	492262	CPR7	0	+	491080	492262	0	1	1182,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrIX	51758	53708	GUT2	0	-	51758	53708	0	1	1950,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrII	112800	113427	PTH2	0	-	112800	113427	0	1	627,	0,
+#Partially deleted in new
+chrVIII	540548	540782	YHR213W-A	0	+	540548	540782	0	1	234,	0,
+#Partially deleted in new
+chrVII	1076282	1076504	YGR291C	0	-	1076282	1076504	0	1	222,	0,
+#Partially deleted in new
+chrIV	687767	687884	YDR118W-A	0	+	687767	687884	0	1	117,	0,
+#Partially deleted in new
+chrX	376542	377849	IRC18	0	+	376542	377849	0	1	1307,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	164789	165326	SPC2	0	+	164789	165326	0	1	537,	0,
+#Partially deleted in new
+chrIX	11491	16141	VTH1	0	+	11491	16141	0	1	4650,	0,
+#Partially deleted in new
+chrXV	784856	786744	ABP140	0	+	784856	786744	0	1	1888,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	493432	494470	TMA46	0	+	493432	494470	0	1	1038,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	170401	171310	SUR7	0	+	170401	171310	0	1	909,	0,
+#Partially deleted in new
+chrXV	651857	652163	YOR170W	0	+	651857	652163	0	1	306,	0,
+#Partially deleted in new
+chrXI	646355	649865	FLO10	0	+	646355	649865	0	1	3510,	0,
+#Partially deleted in new
+chrVII	1067221	1068991	IMA1	0	-	1067221	1068991	0	1	1770,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXI	9090	11226	FRE2	0	-	9090	11226	0	1	2136,	0,
+#Partially deleted in new
+chrXIII	753224	754220	RPL20A	0	-	753224	754220	0	1	996,	0,
+#Partially deleted in new
+chrX	376542	377849	IRC18	0	+	376542	377849	0	2	331,258,	0,1049,
+#Partially deleted in new
+chrIV	544592	545617	DB639721	0	+	544592	545617	0	2	84,457,	0,568,
+#Partially deleted in new
+chrIV	652651	654428	BMH2	0	+	652651	654428	0	1	1777,	0,
+#Boundary problem: need 2, got 1, diff 1, mapped 0.5
+chrVI	199785	201709	PES4	0	+	199785	201709	0	2	125,1225,	0,699,
+#Boundary problem: need 2, got 1, diff 1, mapped 0.5
+chrXV	70712	71051	DB639731	0	-	70712	71051	0	2	137,33,	0,306,
+#Partially deleted in new
+chrXV	303408	304122	DB641776	0	+	303408	304122	0	2	41,108,	0,606,
+#Boundary problem: need 2, got 0, diff 2, mapped 0.0
+chrVII	252896	253904	MRM2	0	-	252896	253904	0	2	289,656,	0,352,
+#Partially deleted in new
+chrVII	533968	534807	RPS25A	0	-	533968	534807	0	1	839,	0,
+#Partially deleted in new
+chrVII	593172	593507	DB639229	0	+	593172	593507	0	2	218,19,	0,316,
+#Boundary problem: need 2, got 1, diff 1, mapped 0.5
+chrXII	243780	245197	YLR049C	0	-	243780	245197	0	2	605,48,	0,1369,
+#Partially deleted in new
+chrXII	898005	898896	RPS29A	0	+	898005	898896	0	2	543,251,	0,640,
+#Boundary problem: need 2, got 1, diff 1, mapped 0.5
+chrXVI	115112	116020	USV1	0	+	115112	116020	0	2	106,722,	0,186,
+#Partially deleted in new
+chrV	424698	424883	snR4	0	+	424698	424883	0	1	185,	0,
+#Partially deleted in new
+chrXII	794937	795024	snR57	0	-	794937	795024	0	1	87,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	67768	67938	snR85	0	-	67768	67938	0	1	170,	0,
+#Partially deleted in new
+chrXIII	297506	297593	snR77	0	+	297506	297593	0	1	87,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXIII	298138	298225	snR74	0	+	298138	298225	0	1	87,	0,
+#Partially deleted in new
+chrIV	544592	545617	DB639721	0	+	544592	545617	0	1	1025,	0,
+#Boundary problem: need 1, got 0, diff 1, mapped 0.0
+chrXV	70712	71051	DB639731	0	-	70712	71051	0	1	339,	0,
+#Partially deleted in new
+chrVII	383412	384766	PUS2	0	+	383412	384766	0	1	1354,	0,
+#Partially deleted in new
+chrVII	383412	384766	PUS2	0	+	383412	384766	0	2	73,1201,	0,153,
+#Boundary problem: need 2, got 1, diff 1, mapped 0.5
+chrV	517794	520771	BCK2	0	+	517794	520771	0	2	57,2842,	0,135,

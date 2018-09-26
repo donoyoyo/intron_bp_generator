@@ -1,0 +1,1 @@
+./batch_branchpoint_gen.pl sacBay2_nicename.bed /gbdb/sacBay2/sacBay2.2bit outputfile.tsv phastCons2

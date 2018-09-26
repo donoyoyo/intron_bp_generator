@@ -1,0 +1,4 @@
+#	 Database: sacBay2, Table: phastCons2
+# Chrom	Data	Data	# Data	Data	Bases	Minimum	Maximum	Range	Mean	Variance Standard
+#	start	end	values	span	covered						deviation
+chr11	165244	165264	21	1	21	0.0290394	0.159717	0.130677	0.0815868	0.0016439	0.0405451
