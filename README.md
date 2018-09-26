@@ -37,6 +37,10 @@ using those files:
  
  ./intron_branchpoint_gen.pl introndata.bed ares_sc3_isoforms.bed sacCer3.2bit outputfile.tsv sacCer3.phastCons7way.bw
 
+The phastCons big wig file is available several places including here:
+
+http://hgdownload.cse.ucsc.edu/goldenPath/sacCer3/phastCons7way/sacCer3.phastCons7way.bw
+
 
  sacMik2
  sacBay2
